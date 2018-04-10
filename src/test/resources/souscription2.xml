@@ -11,7 +11,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(0);
@@ -81,7 +81,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(9);
@@ -141,7 +141,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(2);
@@ -208,7 +208,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(4);
@@ -267,7 +267,7 @@ class ExcelReader{
 
 	def readData(){
 
-		def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+		def path = "/mavenProject/JDD/file1.xlsx";
 		InputStream inputStream = new FileInputStream(path);
 
 		Workbook workbook = WorkbookFactory.create(inputStream);
@@ -342,7 +342,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(6);
@@ -404,7 +404,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(7);
@@ -464,7 +464,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(17);
@@ -541,7 +541,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(8);
@@ -604,7 +604,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(13);
@@ -674,7 +674,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(10);
@@ -741,7 +741,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(15);
@@ -806,7 +806,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(16);
@@ -884,7 +884,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(5);
@@ -943,7 +943,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(11);
@@ -1014,7 +1014,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(3);
@@ -1073,7 +1073,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(14);
@@ -1133,7 +1133,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(18);
@@ -1196,7 +1196,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(19);
@@ -1259,7 +1259,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(20);
@@ -1323,7 +1323,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(21);
@@ -1386,7 +1386,7 @@ import java.io.*;
 class ExcelReader {
   
   def readData() {
-        def path = "/Users/mac/Desktop/S2M/workspace/mavenProject/JDD/file1.xlsx";
+        def path = "/mavenProject/JDD/file1.xlsx";
         InputStream inputStream = new FileInputStream(path);
         Workbook workbook = WorkbookFactory.create(inputStream);
         Sheet sheet = workbook.getSheetAt(22);
