@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+  <testsuite name="souscription.ST16-EnrollSubAgentOperator" tests="1" failures="0" errors="0" time="5.087" package="souscription" id="1">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT16-EnrollSubAgentOperator" time="5.087"/>
+  </testsuite>
+  <testsuite name="souscription.SC10-CreatePIN" tests="1" failures="0" errors="0" time="5.984" package="souscription" id="2">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-CreatePIN" time="5.984"/>
+  </testsuite>
+  <testsuite name="souscription.SC04-GetNationality" tests="1" failures="0" errors="0" time="6.036" package="souscription" id="3">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-GetNationality" time="6.036"/>
+  </testsuite>
+  <testsuite name="souscription.SC02-GetAgentAllowedAccount" tests="1" failures="0" errors="0" time="14.751" package="souscription" id="4">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-GetAgentAllowedAccount" time="14.751"/>
+  </testsuite>
+  <testsuite name="souscription.ST18-Login" tests="1" failures="0" errors="0" time="4.338" package="souscription" id="5">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-login" time="4.338"/>
+  </testsuite>
+  <testsuite name="souscription.ST17-EnrollAgent" tests="1" failures="0" errors="0" time="5.576" package="souscription" id="6">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-EnrollAgent" time="5.576"/>
+  </testsuite>
+  <testsuite name="souscription.SC01-CheckPhone" tests="1" failures="0" errors="0" time="5.786" package="souscription" id="7">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-CheckPhone" time="5.786"/>
+  </testsuite>
+  <testsuite name="souscription.ST21-ForgotMySecretQuestion" tests="1" failures="0" errors="0" time="5.278" package="souscription" id="8">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-ForgotMySecretQuestion" time="5.278"/>
+  </testsuite>
+  <testsuite name="souscription.ST20-ForgotPassword" tests="1" failures="1" errors="0" time="65.955" package="souscription" id="9">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-ForgotPassword" time="65.955">
+      <failure type="Failing due to failed test step" message="Failing due to failed test step"><![CDATA[<h3><b>forgotPassword Failed</b></h3><pre>java.net.SocketTimeoutException: Read timed out
+</pre><hr/>]]></failure>
+    </testcase>
+  </testsuite>
+  <testsuite name="souscription.SC03-CheckToken" tests="1" failures="0" errors="0" time="12.009" package="souscription" id="10">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-CkeckToken" time="12.009"/>
+  </testsuite>
+  <testsuite name="souscription.ST13-EnrollUnBankedCustomer" tests="1" failures="0" errors="0" time="5.524" package="souscription" id="11">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-EnrollUnBankedCustomer" time="5.524"/>
+  </testsuite>
+  <testsuite name="souscription.SC06-GetSecretQuestions" tests="1" failures="0" errors="0" time="5.865" package="souscription" id="12">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-GetSecretQuestions" time="5.865"/>
+  </testsuite>
+  <testsuite name="souscription.SC05-GetContract" tests="1" failures="0" errors="0" time="6.187" package="souscription" id="13">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-GetContract" time="6.187"/>
+  </testsuite>
+  <testsuite name="souscription.SC08-CheckOTP" tests="1" failures="0" errors="0" time="6.813" package="souscription" id="14">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-CheckOTP" time="6.813"/>
+  </testsuite>
+  <testsuite name="souscription.SC07-GenerateOTP" tests="1" failures="0" errors="0" time="3.337" package="souscription" id="15">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-GenerateOTP" time="3.337"/>
+  </testsuite>
+  <testsuite name="souscription.SC11-EnrollBankedCustomer" tests="1" failures="0" errors="0" time="7.123" package="souscription" id="16">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-EnrollBankedCustomer" time="7.123"/>
+  </testsuite>
+  <testsuite name="souscription.ST15-SubscribeSubAgentOperator" tests="1" failures="0" errors="0" time="7.96" package="souscription" id="17">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-SubscribeSubAgentOperator" time="7.96"/>
+  </testsuite>
+  <testsuite name="souscription.SC12-GenerateOTPUnbanked" tests="1" failures="0" errors="0" time="5.134" package="souscription" id="18">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-GenerateOTPUnbanked" time="5.134"/>
+  </testsuite>
+  <testsuite name="souscription.SC09-CheckLogin" tests="1" failures="0" errors="0" time="5.66" package="souscription" id="19">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-CheckLogin" time="5.66"/>
+  </testsuite>
+  <testsuite name="souscription.ST14-GetCity" tests="1" failures="0" errors="0" time="4.938" package="souscription" id="20">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-GetCity" time="4.938"/>
+  </testsuite>
+  <testsuite name="souscription.ST19-Logout" tests="1" failures="0" errors="0" time="1.292" package="souscription" id="21">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-Logout" time="1.292"/>
+  </testsuite>
+  <testsuite name="souscription.ST22-GetMySecretQuestion" tests="1" failures="0" errors="0" time="3.767" package="souscription" id="22">
+    <properties>
+      <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+      <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib"/>
+      <property name="java.vm.version" value="25.151-b12"/>
+      <property name="user.country.format" value="MA"/>
+      <property name="gopherProxySet" value="false"/>
+      <property name="maven.multiModuleProjectDirectory" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.vm.vendor" value="Oracle Corporation"/>
+      <property name="java.vendor.url" value="http://java.oracle.com/"/>
+      <property name="guice.disable.misplaced.annotation.check" value="true"/>
+      <property name="path.separator" value=":"/>
+      <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+      <property name="file.encoding.pkg" value="sun.io"/>
+      <property name="user.country" value="FR"/>
+      <property name="sun.java.launcher" value="SUN_STANDARD"/>
+      <property name="sun.os.patch.level" value="unknown"/>
+      <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+      <property name="user.dir" value="/Users/mac/Desktop/S2M/workspace/mavenProject"/>
+      <property name="java.runtime.version" value="1.8.0_151-b12"/>
+      <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+      <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/endorsed"/>
+      <property name="os.arch" value="x86_64"/>
+      <property name="java.io.tmpdir" value="/var/folders/46/xpd9xgjs6gsc7zngk28qk19w0000gn/T/"/>
+      <property name="line.separator" value="
+"/>
+      <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+      <property name="os.name" value="Mac OS X"/>
+      <property name="classworlds.conf" value="/Users/mac/Desktop/S2M/workspace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf7092221460143446644.tmp"/>
+      <property name="sun.jnu.encoding" value="UTF-8"/>
+      <property name="java.library.path" value="/Users/mac/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+      <property name="sun.awt.enableExtraMouseButtons" value="true"/>
+      <property name="java.specification.name" value="Java Platform API Specification"/>
+      <property name="java.class.version" value="52.0"/>
+      <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+      <property name="os.version" value="10.13.1"/>
+      <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="user.home" value="/Users/mac"/>
+      <property name="user.timezone" value="Africa/Casablanca"/>
+      <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+      <property name="file.encoding" value="UTF-8"/>
+      <property name="java.specification.version" value="1.8"/>
+      <property name="java.class.path" value="/Applications/Eclipse.app/Contents/Eclipse/plugins/org.eclipse.m2e.maven.runtime_1.8.0.20160921-2001/jars/plexus-classworlds-2.5.2.jar"/>
+      <property name="user.name" value="F.zohra"/>
+      <property name="java.vm.specification.version" value="1.8"/>
+      <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+      <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre"/>
+      <property name="sun.arch.data.model" value="64"/>
+      <property name="user.language" value="fr"/>
+      <property name="java.specification.vendor" value="Oracle Corporation"/>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+      <property name="java.vm.info" value="mixed mode"/>
+      <property name="java.version" value="1.8.0_151"/>
+      <property name="java.ext.dirs" value="/Users/mac/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+      <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/jre/classes"/>
+      <property name="java.vendor" value="Oracle Corporation"/>
+      <property name="maven.home" value="/Users/mac/Desktop/S2M/workspace/mavenProject/EMBEDDED"/>
+      <property name="file.separator" value="/"/>
+      <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+      <property name="sun.font.fontmanager" value="sun.font.CFontManager"/>
+      <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+      <property name="sun.cpu.endian" value="little"/>
+      <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+      <property name="sun.cpu.isalist" value=""/>
+    </properties>
+    <testcase name="CT-GetMySecretQuestion" time="3.767"/>
+  </testsuite>
+</testsuites>
