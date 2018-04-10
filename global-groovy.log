@@ -662,3 +662,983 @@
 2018-04-09 17:28:45,522 INFO  [log] Fin du test -- Cas : 1.0
 2018-04-09 17:28:45,522 INFO  [log] Début du test -- Cas : 1.0 384
 2018-04-09 17:28:46,046 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:07,958 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 11:56:09,998 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:09,998 INFO  [log] Début du test -- Cas : 1.1 353
+2018-04-10 11:56:10,573 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:10,573 INFO  [log] Début du test -- Cas : 1.1 351
+2018-04-10 11:56:11,107 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:11,108 INFO  [log] Début du test -- Cas : 1.1 350
+2018-04-10 11:56:11,640 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:11,640 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 11:56:12,174 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:56:12,175 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 11:56:12,708 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:56:12,708 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 11:56:13,242 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:13,242 INFO  [log] Début du test -- Cas : 1.1 316
+2018-04-10 11:56:13,775 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:13,776 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 11:56:14,312 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:14,312 INFO  [log] Début du test -- Cas : 1.1 321
+2018-04-10 11:56:14,844 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:14,844 INFO  [log] Début du test -- Cas : 1.1 108
+2018-04-10 11:56:15,374 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:17,181 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 11:56:17,456 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:17,456 INFO  [log] Début du test -- Cas : 1.2 196
+2018-04-10 11:56:18,085 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:56:18,085 INFO  [log] Début du test -- Cas : 1.2 301
+2018-04-10 11:56:18,767 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:56:18,767 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 11:56:19,375 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:19,375 INFO  [log] Début du test -- Cas : 1.2 302
+2018-04-10 11:56:19,942 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:56:19,942 INFO  [log] Début du test -- Cas : 1.4 384
+2018-04-10 11:56:20,512 INFO  [log] Fin du test -- Cas : 1.4
+2018-04-10 11:56:20,513 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 11:56:21,039 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:21,226 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 11:56:21,305 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:21,306 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 11:56:21,931 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:21,932 INFO  [log] Début du test -- Cas : 1.1 301
+2018-04-10 11:56:22,527 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:22,528 INFO  [log] Début du test -- Cas : 1.6 384
+2018-04-10 11:56:23,090 INFO  [log] Fin du test -- Cas : 1.6
+2018-04-10 11:56:23,091 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 11:56:23,605 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:23,605 INFO  [log] Début du test -- Cas : 1.0 308 
+2018-04-10 11:56:24,287 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:24,316 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 11:56:24,933 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:56:24,933 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 11:56:25,550 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:25,741 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 11:56:26,685 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:26,686 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 11:56:27,198 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:27,230 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 11:56:27,885 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:56:27,885 INFO  [log] Début du test -- Cas : 1.3 384
+2018-04-10 11:56:28,468 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:56:28,468 INFO  [log] Début du test -- Cas : 1.0 383
+2018-04-10 11:56:29,078 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:29,079 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 11:56:29,641 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:29,641 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 11:56:30,290 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:30,290 INFO  [log] Début du test -- Cas :  196
+2018-04-10 11:56:30,804 INFO  [log] Fin du test -- Cas : 
+2018-04-10 11:56:30,981 INFO  [log] Début du test --Cas: 1.2 307
+2018-04-10 11:56:31,074 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 11:56:31,074 INFO  [log] Début du test --Cas: 1.1 300
+2018-04-10 11:56:31,599 INFO  [log] Fin du test --cas: 1.1
+2018-04-10 11:56:31,599 INFO  [log] Début du test --Cas: 1.2 305
+2018-04-10 11:56:32,350 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 11:56:32,350 INFO  [log] Début du test --Cas: 1.0 306
+2018-04-10 11:56:33,170 INFO  [log] Fin du test --cas: 1.0
+2018-04-10 11:56:33,171 INFO  [log] Début du test --Cas: 1.3 384
+2018-04-10 11:56:33,738 INFO  [log] Fin du test --cas: 1.3
+2018-04-10 11:56:33,738 INFO  [log] Début du test --Cas: 1.2 302
+2018-04-10 11:56:34,294 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 11:56:34,295 INFO  [log] Début du test --Cas: 1.2 000
+2018-04-10 11:56:35,031 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 11:56:35,031 INFO  [log] Début du test --Cas: 1.0 308
+2018-04-10 11:56:35,843 INFO  [log] Fin du test --cas: 1.0
+2018-04-10 11:56:35,843 INFO  [log] Début du test --Cas: 1.2 303
+2018-04-10 11:56:36,831 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 11:56:36,854 INFO  [log] Début du test --Cas: null 196
+2018-04-10 11:56:36,863 INFO  [log] Fin du test --cas: null
+2018-04-10 11:56:36,864 INFO  [log] Début du test --Cas: 1.2 301
+2018-04-10 11:56:37,608 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 11:56:37,608 INFO  [log] Début du test --Cas: 1.2 304
+2018-04-10 11:56:38,512 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 11:56:39,550 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 11:56:40,103 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:56:40,103 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 11:56:40,616 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:40,616 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 11:56:41,130 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:41,130 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 11:56:41,644 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:41,644 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 11:56:42,163 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:42,164 INFO  [log] Début du test -- Cas : null 196
+2018-04-10 11:56:42,678 INFO  [log] Fin du test -- Cas : null
+2018-04-10 11:56:42,925 INFO  [log] Début du test -- Cas : 1.2 000
+2018-04-10 11:56:43,651 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:56:43,651 INFO  [log] Début du test -- Cas :  196
+2018-04-10 11:56:44,165 INFO  [log] Fin du test -- Cas : 
+2018-04-10 11:56:44,166 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 11:56:44,679 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:44,679 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 11:56:45,317 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:56:45,317 INFO  [log] Début du test -- Cas : 1.2 301
+2018-04-10 11:56:46,045 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:56:46,045 INFO  [log] Début du test -- Cas : 1.2 306
+2018-04-10 11:56:46,661 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:56:46,662 INFO  [log] Début du test -- Cas : 1.2 310
+2018-04-10 11:56:47,298 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:56:47,299 INFO  [log] Début du test -- Cas : 1.3 384
+2018-04-10 11:56:47,856 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:56:47,856 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 11:56:48,420 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:48,703 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 11:56:49,305 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:49,305 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 11:56:49,906 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:49,907 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 11:56:50,500 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:50,500 INFO  [log] Début du test -- Cas :  301
+2018-04-10 11:56:51,016 INFO  [log] Fin du test -- Cas : 
+2018-04-10 11:56:51,016 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 11:56:51,575 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:51,575 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 11:56:52,128 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:56:52,129 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 11:56:52,867 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:56:53,052 INFO  [log] Début du test -- Cas : 1.2 000
+2018-04-10 11:56:53,650 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:56:53,650 INFO  [log] Début du test -- Cas :  196
+2018-04-10 11:56:54,161 INFO  [log] Fin du test -- Cas : 
+2018-04-10 11:56:54,161 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 11:56:54,750 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:54,930 INFO  [log] Début du test -- Cas : 1.1 300
+2018-04-10 11:56:55,455 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:56:55,455 INFO  [log] Début du test -- Cas : 1.2 301
+2018-04-10 11:56:56,064 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:56:56,064 INFO  [log] Début du test -- Cas : 1.0 311 
+2018-04-10 11:56:56,732 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:56,732 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 11:56:57,311 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:57,311 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 11:56:57,875 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:56:58,039 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 11:56:58,153 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:58,154 INFO  [log] Début du test -- Cas : 1.0 196
+2018-04-10 11:56:58,769 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:56:58,798 INFO  [log] Début du test -- Cas : 1.2 307
+2018-04-10 11:56:59,406 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:56:59,407 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 11:57:00,037 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:00,037 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 11:57:00,771 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:00,986 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 11:57:01,553 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:01,553 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 11:57:02,210 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:57:02,211 INFO  [log] Début du test -- Cas : null null
+2018-04-10 11:57:02,725 INFO  [log] Fin du test -- Cas : null
+2018-04-10 11:57:03,468 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 11:57:04,529 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:04,529 INFO  [log] Début du test -- Cas : 1.0 196
+2018-04-10 11:57:05,140 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:05,140 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 11:57:05,758 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:05,759 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 11:57:06,373 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:06,373 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 11:57:06,989 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:57:06,990 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 11:57:08,036 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:08,036 INFO  [log] Début du test -- Cas : 1.1 384
+2018-04-10 11:57:08,603 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:09,003 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 11:57:09,697 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:09,697 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 11:57:10,309 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:10,309 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 11:57:10,929 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:10,929 INFO  [log] Début du test -- Cas : 1.1 321
+2018-04-10 11:57:11,644 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:11,644 INFO  [log] Début du test -- Cas : 1.1 301
+2018-04-10 11:57:12,158 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:12,158 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 11:57:12,875 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:57:12,875 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 11:57:13,439 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:13,563 INFO  [log] Début du test -- Cas :  340
+2018-04-10 11:57:14,074 INFO  [log] Fin du test -- Cas : 
+2018-04-10 11:57:14,074 INFO  [log] Début du test -- Cas :  341
+2018-04-10 11:57:14,588 INFO  [log] Fin du test -- Cas : 
+2018-04-10 11:57:14,588 INFO  [log] Début du test -- Cas : 1.1 308
+2018-04-10 11:57:15,311 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:15,560 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 11:57:16,241 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:16,241 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 11:57:16,857 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:16,857 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 11:57:17,477 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:17,477 INFO  [log] Début du test -- Cas :  301
+2018-04-10 11:57:17,991 INFO  [log] Fin du test -- Cas : 
+2018-04-10 11:57:17,992 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 11:57:18,556 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:18,556 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 11:57:19,122 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:57:19,122 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 11:57:19,753 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:57:19,932 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 11:57:20,497 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:20,497 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 11:57:21,495 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:21,495 INFO  [log] Début du test -- Cas : 1.0 309
+2018-04-10 11:57:22,186 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:22,245 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 11:57:22,759 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:22,799 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 11:57:23,371 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:23,371 INFO  [log] Début du test -- Cas : 1.1 300
+2018-04-10 11:57:23,896 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:23,896 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 11:57:24,560 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:24,598 INFO  [log] Début du test -- Cas : null 196
+2018-04-10 11:57:25,112 INFO  [log] Fin du test -- Cas : null
+2018-04-10 11:57:25,386 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 11:57:25,994 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:25,994 INFO  [log] Début du test -- Cas : 1.2 307
+2018-04-10 11:57:26,602 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:57:26,603 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 11:57:27,213 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:27,213 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 11:57:27,846 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:57:27,846 INFO  [log] Début du test -- Cas : 1.4 384
+2018-04-10 11:57:28,410 INFO  [log] Fin du test -- Cas : 1.4
+2018-04-10 11:57:28,410 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 11:57:29,018 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:29,018 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 11:57:29,631 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:29,825 INFO  [log] Début du test -- Cas : 1.1 384
+2018-04-10 11:57:30,390 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:30,390 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 11:57:31,098 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:31,099 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 11:57:31,613 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:31,625 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 11:57:32,184 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:32,184 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 11:57:32,948 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:57:32,948 INFO  [log] Début du test -- Cas : 1.3 385
+2018-04-10 11:57:33,592 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:57:33,592 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 11:57:34,247 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:34,247 INFO  [log] Début du test -- Cas : null 196
+2018-04-10 11:57:34,761 INFO  [log] Fin du test -- Cas : null
+2018-04-10 11:57:34,918 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 11:57:35,580 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:35,581 INFO  [log] Début du test -- Cas : 1.0 196
+2018-04-10 11:57:36,093 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:36,093 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 11:57:36,607 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:36,607 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 11:57:37,118 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:37,118 INFO  [log] Début du test -- Cas : 1.5 384
+2018-04-10 11:57:37,672 INFO  [log] Fin du test -- Cas : 1.5
+2018-04-10 11:57:37,672 INFO  [log] Début du test -- Cas : 1.1 300
+2018-04-10 11:57:38,194 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:38,194 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 11:57:38,746 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:38,746 INFO  [log] Début du test -- Cas : null null
+2018-04-10 11:57:39,260 INFO  [log] Fin du test -- Cas : null
+2018-04-10 11:57:39,589 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 11:57:40,102 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:40,102 INFO  [log] Début du test -- Cas : 1.1 384
+2018-04-10 11:57:40,618 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 11:57:40,618 INFO  [log] Début du test -- Cas : 1.3 370
+2018-04-10 11:57:41,188 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 11:57:41,188 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 11:57:42,001 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:42,001 INFO  [log] Début du test -- Cas : 1.2 300
+2018-04-10 11:57:42,563 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 11:57:42,563 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 11:57:43,123 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:43,329 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 11:57:43,860 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:43,884 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 11:57:44,416 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:45,014 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 11:57:45,421 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:45,421 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 11:57:46,025 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:46,025 INFO  [log] Début du test -- Cas : 1.0 306
+2018-04-10 11:57:46,639 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:46,639 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 11:57:47,196 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:47,196 INFO  [log] Début du test -- Cas : 1.0 381
+2018-04-10 11:57:48,016 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:48,016 INFO  [log] Début du test -- Cas : 1.0 312
+2018-04-10 11:57:48,833 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:49,521 INFO  [log] Début du test -- Cas : null 000
+2018-04-10 11:57:49,530 INFO  [log] Fin du test -- Cas : null
+2018-04-10 11:57:49,531 INFO  [log] Début du test -- Cas : null 301
+2018-04-10 11:57:50,297 INFO  [log] Fin du test -- Cas : null
+2018-04-10 11:57:50,297 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 11:57:50,878 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:50,879 INFO  [log] Début du test -- Cas : null 196
+2018-04-10 11:57:51,393 INFO  [log] Fin du test -- Cas : null
+2018-04-10 11:57:51,393 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 11:57:51,907 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:51,908 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 11:57:52,478 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:52,478 INFO  [log] Début du test -- Cas : null 303
+2018-04-10 11:57:52,990 INFO  [log] Fin du test -- Cas : null
+2018-04-10 11:57:52,991 INFO  [log] Début du test -- Cas : 1.0 304
+2018-04-10 11:57:53,580 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:53,725 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 11:57:54,589 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:54,632 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 11:57:55,147 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:55,147 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 11:57:55,758 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:55,759 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 11:57:56,320 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 11:57:56,320 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 11:57:56,845 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:06:22,776 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 14:06:24,538 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:06:24,539 INFO  [log] Début du test -- Cas : 1.1 353
+2018-04-10 14:06:24,576 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:06:24,577 INFO  [log] Début du test -- Cas : 1.1 351
+2018-04-10 14:06:25,121 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:06:25,121 INFO  [log] Début du test -- Cas : 1.1 350
+2018-04-10 14:06:25,666 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:06:25,666 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 14:06:26,204 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:06:26,205 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:06:26,756 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:06:26,757 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 14:06:27,292 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:06:27,292 INFO  [log] Début du test -- Cas : 1.1 316
+2018-04-10 14:06:27,831 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:06:27,832 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:06:28,367 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:06:28,368 INFO  [log] Début du test -- Cas : 1.1 321
+2018-04-10 14:06:28,903 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:06:28,903 INFO  [log] Début du test -- Cas : 1.1 108
+2018-04-10 14:06:29,437 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:06:32,349 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:06:32,572 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:06:32,572 INFO  [log] Début du test -- Cas : 1.2 196
+2018-04-10 14:06:33,174 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:06:33,175 INFO  [log] Début du test -- Cas : 1.2 301
+2018-04-10 14:06:33,856 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:06:33,857 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:06:34,452 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:06:34,453 INFO  [log] Début du test -- Cas : 1.2 302
+2018-04-10 14:06:35,026 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:06:35,027 INFO  [log] Début du test -- Cas : 1.4 384
+2018-04-10 14:06:35,589 INFO  [log] Fin du test -- Cas : 1.4
+2018-04-10 14:06:35,648 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:06:36,174 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:06:36,555 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 14:06:36,609 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:06:36,610 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 14:06:37,208 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:06:37,209 INFO  [log] Début du test -- Cas : 1.1 301
+2018-04-10 14:06:37,822 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:06:37,822 INFO  [log] Début du test -- Cas : 1.6 384
+2018-04-10 14:06:38,383 INFO  [log] Fin du test -- Cas : 1.6
+2018-04-10 14:06:38,383 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:06:38,900 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:06:38,900 INFO  [log] Début du test -- Cas : 1.0 308 
+2018-04-10 14:06:39,533 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:06:39,534 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:06:40,145 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:06:40,145 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 14:06:40,773 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:06:40,993 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:06:41,654 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:06:41,655 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:06:42,167 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:06:42,168 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:06:42,813 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:06:42,814 INFO  [log] Début du test -- Cas : 1.3 384
+2018-04-10 14:06:43,381 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:06:43,381 INFO  [log] Début du test -- Cas : 1.0 383
+2018-04-10 14:06:44,026 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:06:44,064 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:06:44,614 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:06:44,614 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:06:45,266 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:06:45,455 INFO  [log] Début du test --Cas: 1.2 307
+2018-04-10 14:06:45,588 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:06:45,588 INFO  [log] Début du test --Cas: 1.1 300
+2018-04-10 14:06:46,261 INFO  [log] Fin du test --cas: 1.1
+2018-04-10 14:06:46,262 INFO  [log] Début du test --Cas: 1.2 305
+2018-04-10 14:06:47,012 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:06:47,012 INFO  [log] Début du test --Cas: 1.0 306
+2018-04-10 14:06:47,887 INFO  [log] Fin du test --cas: 1.0
+2018-04-10 14:06:47,888 INFO  [log] Début du test --Cas: 1.3 384
+2018-04-10 14:06:48,458 INFO  [log] Fin du test --cas: 1.3
+2018-04-10 14:06:48,458 INFO  [log] Début du test --Cas: 1.2 302
+2018-04-10 14:06:49,027 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:06:49,027 INFO  [log] Début du test --Cas: 1.2 000
+2018-04-10 14:06:49,813 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:06:49,813 INFO  [log] Début du test --Cas: 1.0 308
+2018-04-10 14:06:51,570 INFO  [log] Fin du test --cas: 1.0
+2018-04-10 14:06:51,570 INFO  [log] Début du test --Cas: 1.2 303
+2018-04-10 14:06:52,666 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:06:52,738 INFO  [log] Début du test --Cas: null 196
+2018-04-10 14:06:53,256 INFO  [log] Fin du test --cas: null
+2018-04-10 14:06:53,256 INFO  [log] Début du test --Cas: 1.2 301
+2018-04-10 14:06:54,054 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:06:54,102 INFO  [log] Début du test --Cas: 1.2 304
+2018-04-10 14:06:55,238 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:06:56,316 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:06:56,832 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:06:56,832 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 14:06:57,349 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:06:57,349 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:06:57,865 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:06:57,865 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:06:58,378 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:06:58,379 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:06:58,896 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:06:58,896 INFO  [log] Début du test -- Cas : null 196
+2018-04-10 14:06:59,410 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:06:59,694 INFO  [log] Début du test -- Cas : 1.2 000
+2018-04-10 14:07:00,482 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:07:00,483 INFO  [log] Début du test -- Cas :  196
+2018-04-10 14:07:00,995 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:07:00,995 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:07:01,511 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:01,511 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:07:02,120 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:07:02,120 INFO  [log] Début du test -- Cas : 1.2 301
+2018-04-10 14:07:02,849 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:07:02,849 INFO  [log] Début du test -- Cas : 1.2 306
+2018-04-10 14:07:03,455 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:07:03,455 INFO  [log] Début du test -- Cas : 1.2 310
+2018-04-10 14:07:04,153 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:07:04,154 INFO  [log] Début du test -- Cas : 1.3 384
+2018-04-10 14:07:04,721 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:07:04,721 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:07:05,272 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:05,579 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 14:07:06,225 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:06,225 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 14:07:06,856 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:06,857 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:07:07,468 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:07,468 INFO  [log] Début du test -- Cas :  301
+2018-04-10 14:07:07,984 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:07:07,984 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 14:07:08,556 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:08,556 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 14:07:09,122 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:07:09,122 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:07:09,828 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:07:10,028 INFO  [log] Début du test -- Cas : 1.2 000
+2018-04-10 14:07:10,657 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:07:10,657 INFO  [log] Début du test -- Cas :  196
+2018-04-10 14:07:11,171 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:07:11,171 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:07:11,781 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:11,781 INFO  [log] Début du test -- Cas : 1.1 300
+2018-04-10 14:07:12,306 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:12,307 INFO  [log] Début du test -- Cas : 1.2 301
+2018-04-10 14:07:12,914 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:07:12,914 INFO  [log] Début du test -- Cas : 1.0 311 
+2018-04-10 14:07:13,616 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:13,616 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:07:14,177 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:14,178 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 14:07:14,739 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:07:15,087 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:07:15,196 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:15,196 INFO  [log] Début du test -- Cas : 1.0 196
+2018-04-10 14:07:15,808 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:15,808 INFO  [log] Début du test -- Cas : 1.2 307
+2018-04-10 14:07:16,410 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:07:16,410 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:07:17,020 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:17,020 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:07:17,668 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:17,668 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 14:07:18,234 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:18,234 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:07:18,847 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:07:18,848 INFO  [log] Début du test -- Cas : null null
+2018-04-10 14:07:19,377 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:07:20,110 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:07:21,096 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:21,096 INFO  [log] Début du test -- Cas : 1.0 196
+2018-04-10 14:07:21,712 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:21,712 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:07:22,308 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:22,308 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:07:22,897 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:22,897 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:07:23,500 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:07:23,500 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:07:24,240 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:24,310 INFO  [log] Début du test -- Cas : 1.1 384
+2018-04-10 14:07:24,874 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:25,241 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 14:07:26,099 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:26,099 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 14:07:26,710 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:26,711 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:07:27,298 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:27,298 INFO  [log] Début du test -- Cas : 1.1 321
+2018-04-10 14:07:28,135 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:28,135 INFO  [log] Début du test -- Cas : 1.1 301
+2018-04-10 14:07:28,646 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:28,646 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:07:29,344 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:07:29,345 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 14:07:29,959 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:29,959 INFO  [log] Début du test -- Cas :  340
+2018-04-10 14:07:30,475 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:07:30,475 INFO  [log] Début du test -- Cas :  341
+2018-04-10 14:07:30,986 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:07:30,986 INFO  [log] Début du test -- Cas : 1.1 308
+2018-04-10 14:07:31,681 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:31,942 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 14:07:32,570 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:32,570 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 14:07:33,197 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:33,197 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:07:33,816 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:33,816 INFO  [log] Début du test -- Cas :  301
+2018-04-10 14:07:34,329 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:07:34,329 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 14:07:34,883 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:34,884 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 14:07:35,439 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:07:35,439 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:07:36,040 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:07:36,218 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:07:36,797 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:36,797 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:07:37,530 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:37,530 INFO  [log] Début du test -- Cas : 1.0 309
+2018-04-10 14:07:38,228 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:38,228 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:07:38,739 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:38,758 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 14:07:39,322 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:39,322 INFO  [log] Début du test -- Cas : 1.1 300
+2018-04-10 14:07:39,845 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:39,846 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:07:40,492 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:40,716 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:07:41,318 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:41,318 INFO  [log] Début du test -- Cas : 1.2 307
+2018-04-10 14:07:41,926 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:07:41,926 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:07:42,539 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:42,539 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:07:43,149 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:07:43,150 INFO  [log] Début du test -- Cas : 1.4 384
+2018-04-10 14:07:43,713 INFO  [log] Fin du test -- Cas : 1.4
+2018-04-10 14:07:43,714 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:07:44,318 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:44,319 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 14:07:44,939 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:45,089 INFO  [log] Début du test -- Cas : 1.1 384
+2018-04-10 14:07:45,648 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:45,648 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:07:46,310 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:46,310 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:07:46,823 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:46,824 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:07:47,377 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:47,397 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:07:48,143 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:07:48,144 INFO  [log] Début du test -- Cas : 1.3 385
+2018-04-10 14:07:48,792 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:07:48,792 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:07:49,436 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:49,709 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:07:50,361 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:50,361 INFO  [log] Début du test -- Cas : 1.0 196
+2018-04-10 14:07:50,875 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:50,875 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:07:51,388 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:51,389 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:07:51,902 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:51,903 INFO  [log] Début du test -- Cas : 1.5 384
+2018-04-10 14:07:52,465 INFO  [log] Fin du test -- Cas : 1.5
+2018-04-10 14:07:52,466 INFO  [log] Début du test -- Cas : 1.1 300
+2018-04-10 14:07:52,988 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:52,988 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:07:53,545 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:53,765 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:07:54,280 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:54,280 INFO  [log] Début du test -- Cas : 1.1 384
+2018-04-10 14:07:54,811 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:07:54,812 INFO  [log] Début du test -- Cas : 1.3 370
+2018-04-10 14:07:55,380 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:07:55,381 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:07:56,201 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:56,202 INFO  [log] Début du test -- Cas : 1.2 300
+2018-04-10 14:07:56,803 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:07:56,803 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:07:57,363 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:57,534 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:07:58,095 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:58,112 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:07:58,669 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:59,071 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:07:59,873 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:07:59,873 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:08:00,455 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:08:00,601 INFO  [log] Début du test -- Cas : 1.0 306
+2018-04-10 14:08:01,190 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:08:01,190 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:08:01,739 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:08:01,739 INFO  [log] Début du test -- Cas : 1.0 381
+2018-04-10 14:08:02,678 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:08:02,678 INFO  [log] Début du test -- Cas : 1.0 312
+2018-04-10 14:08:03,652 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:08:03,902 INFO  [log] Début du test -- Cas : null 000
+2018-04-10 14:08:04,415 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:08:04,416 INFO  [log] Début du test -- Cas : null 301
+2018-04-10 14:08:04,930 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:08:04,938 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:08:05,545 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:08:05,546 INFO  [log] Début du test -- Cas : null 196
+2018-04-10 14:08:06,064 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:08:06,064 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:08:06,578 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:08:06,578 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:08:07,219 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:08:07,219 INFO  [log] Début du test -- Cas : null 303
+2018-04-10 14:08:07,732 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:08:07,732 INFO  [log] Début du test -- Cas : 1.0 304
+2018-04-10 14:08:08,340 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:08:08,493 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:08:09,175 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:08:09,175 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:08:09,688 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:08:09,688 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:08:10,297 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:08:10,298 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:08:10,853 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:08:10,853 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 14:08:11,375 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:41:53,258 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 14:41:54,975 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:55,048 INFO  [log] Début du test -- Cas : 1.1 353
+2018-04-10 14:41:55,078 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:55,079 INFO  [log] Début du test -- Cas : 1.1 351
+2018-04-10 14:41:55,609 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:55,610 INFO  [log] Début du test -- Cas : 1.1 350
+2018-04-10 14:41:56,152 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:56,152 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 14:41:56,686 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:41:56,686 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:41:57,219 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:41:57,220 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 14:41:57,754 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:57,754 INFO  [log] Début du test -- Cas : 1.1 316
+2018-04-10 14:41:58,289 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:58,290 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:41:58,827 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:58,827 INFO  [log] Début du test -- Cas : 1.1 321
+2018-04-10 14:41:59,350 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:59,351 INFO  [log] Début du test -- Cas : 1.1 108
+2018-04-10 14:41:59,887 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:02,779 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:42:02,993 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:02,993 INFO  [log] Début du test -- Cas : 1.2 196
+2018-04-10 14:42:03,615 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:03,616 INFO  [log] Début du test -- Cas : 1.2 301
+2018-04-10 14:42:04,289 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:04,289 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:42:04,899 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:04,899 INFO  [log] Début du test -- Cas : 1.2 302
+2018-04-10 14:42:05,459 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:05,460 INFO  [log] Début du test -- Cas : 1.4 384
+2018-04-10 14:42:06,021 INFO  [log] Fin du test -- Cas : 1.4
+2018-04-10 14:42:06,260 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:42:06,784 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:06,976 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 14:42:07,091 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:07,091 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 14:42:07,702 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:07,702 INFO  [log] Début du test -- Cas : 1.1 301
+2018-04-10 14:42:08,331 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:08,331 INFO  [log] Début du test -- Cas : 1.6 384
+2018-04-10 14:42:08,903 INFO  [log] Fin du test -- Cas : 1.6
+2018-04-10 14:42:08,903 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:42:09,417 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:09,418 INFO  [log] Début du test -- Cas : 1.0 308 
+2018-04-10 14:42:10,057 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:10,057 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:10,672 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:10,672 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 14:42:11,284 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:11,462 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:42:12,105 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:12,105 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:42:12,619 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:12,620 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:13,274 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:13,274 INFO  [log] Début du test -- Cas : 1.3 384
+2018-04-10 14:42:13,841 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:13,841 INFO  [log] Début du test -- Cas : 1.0 383
+2018-04-10 14:42:14,452 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:14,452 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:42:15,013 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:15,014 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:42:15,676 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:15,841 INFO  [log] Début du test --Cas: 1.2 307
+2018-04-10 14:42:15,944 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:42:15,945 INFO  [log] Début du test --Cas: 1.1 300
+2018-04-10 14:42:16,471 INFO  [log] Fin du test --cas: 1.1
+2018-04-10 14:42:16,471 INFO  [log] Début du test --Cas: 1.2 305
+2018-04-10 14:42:17,211 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:42:17,212 INFO  [log] Début du test --Cas: 1.0 306
+2018-04-10 14:42:17,905 INFO  [log] Fin du test --cas: 1.0
+2018-04-10 14:42:17,906 INFO  [log] Début du test --Cas: 1.3 384
+2018-04-10 14:42:18,477 INFO  [log] Fin du test --cas: 1.3
+2018-04-10 14:42:18,477 INFO  [log] Début du test --Cas: 1.2 302
+2018-04-10 14:42:19,039 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:42:19,039 INFO  [log] Début du test --Cas: 1.2 000
+2018-04-10 14:42:19,808 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:42:19,808 INFO  [log] Début du test --Cas: 1.0 308
+2018-04-10 14:42:20,589 INFO  [log] Fin du test --cas: 1.0
+2018-04-10 14:42:20,595 INFO  [log] Début du test --Cas: 1.2 303
+2018-04-10 14:42:21,499 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:42:21,521 INFO  [log] Début du test --Cas: null 196
+2018-04-10 14:42:22,037 INFO  [log] Fin du test --cas: null
+2018-04-10 14:42:22,037 INFO  [log] Début du test --Cas: 1.2 301
+2018-04-10 14:42:22,762 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:42:22,762 INFO  [log] Début du test --Cas: 1.2 304
+2018-04-10 14:42:23,699 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:42:24,756 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:25,270 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:25,270 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 14:42:25,782 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:25,782 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:42:26,391 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:26,391 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:42:26,907 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:26,907 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:42:27,421 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:27,422 INFO  [log] Début du test -- Cas : null 196
+2018-04-10 14:42:27,937 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:42:28,163 INFO  [log] Début du test -- Cas : 1.2 000
+2018-04-10 14:42:29,121 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:29,121 INFO  [log] Début du test -- Cas :  196
+2018-04-10 14:42:29,632 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:42:29,633 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:42:30,146 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:30,146 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:30,760 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:30,760 INFO  [log] Début du test -- Cas : 1.2 301
+2018-04-10 14:42:31,463 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:31,463 INFO  [log] Début du test -- Cas : 1.2 306
+2018-04-10 14:42:32,071 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:32,071 INFO  [log] Début du test -- Cas : 1.2 310
+2018-04-10 14:42:32,718 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:32,719 INFO  [log] Début du test -- Cas : 1.3 384
+2018-04-10 14:42:33,284 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:33,284 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:42:33,851 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:34,116 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 14:42:34,733 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:34,751 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 14:42:35,368 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:35,368 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:42:35,979 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:35,979 INFO  [log] Début du test -- Cas :  301
+2018-04-10 14:42:36,493 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:42:36,493 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 14:42:37,053 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:37,053 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 14:42:37,615 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:37,615 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:38,426 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:38,645 INFO  [log] Début du test -- Cas : 1.2 000
+2018-04-10 14:42:39,251 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:39,251 INFO  [log] Début du test -- Cas :  196
+2018-04-10 14:42:39,763 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:42:39,763 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:42:40,367 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:40,367 INFO  [log] Début du test -- Cas : 1.1 300
+2018-04-10 14:42:40,889 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:40,890 INFO  [log] Début du test -- Cas : 1.2 301
+2018-04-10 14:42:41,507 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:41,508 INFO  [log] Début du test -- Cas : 1.0 311 
+2018-04-10 14:42:42,147 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:42,169 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:42:42,721 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:42,721 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 14:42:43,282 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:43,432 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:42:43,530 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:43,531 INFO  [log] Début du test -- Cas : 1.0 196
+2018-04-10 14:42:44,130 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:44,130 INFO  [log] Début du test -- Cas : 1.2 307
+2018-04-10 14:42:44,730 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:44,731 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:42:45,484 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:45,485 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:42:46,084 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:46,084 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 14:42:46,651 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:46,652 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:47,262 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:47,263 INFO  [log] Début du test -- Cas : null null
+2018-04-10 14:42:47,785 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:42:48,505 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:42:49,441 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:49,441 INFO  [log] Début du test -- Cas : 1.0 196
+2018-04-10 14:42:50,049 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:50,049 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:42:50,675 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:50,675 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:42:51,279 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:51,280 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:51,892 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:51,892 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:42:52,896 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:52,897 INFO  [log] Début du test -- Cas : 1.1 384
+2018-04-10 14:42:53,451 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:53,759 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 14:42:54,472 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:54,473 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 14:42:55,073 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:55,073 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:42:55,660 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:55,660 INFO  [log] Début du test -- Cas : 1.1 321
+2018-04-10 14:42:56,334 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:56,334 INFO  [log] Début du test -- Cas : 1.1 301
+2018-04-10 14:42:56,849 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:56,849 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:57,510 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:57,510 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 14:42:58,135 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:58,135 INFO  [log] Début du test -- Cas :  340
+2018-04-10 14:42:58,649 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:42:58,649 INFO  [log] Début du test -- Cas :  341
+2018-04-10 14:42:59,164 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:42:59,164 INFO  [log] Début du test -- Cas : 1.1 308
+2018-04-10 14:42:59,836 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:00,067 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 14:43:00,685 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:00,743 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 14:43:01,362 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:01,362 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:43:01,969 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:01,970 INFO  [log] Début du test -- Cas :  301
+2018-04-10 14:43:02,481 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:43:02,481 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 14:43:03,032 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:03,045 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 14:43:03,619 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:43:03,619 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:43:04,377 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:43:04,511 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:43:05,069 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:05,069 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:06,274 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:06,274 INFO  [log] Début du test -- Cas : 1.0 309
+2018-04-10 14:43:06,419 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:06,419 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:43:06,929 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:06,930 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 14:43:07,491 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:07,491 INFO  [log] Début du test -- Cas : 1.1 300
+2018-04-10 14:43:08,012 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:08,013 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:43:08,650 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:08,872 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:09,452 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:09,453 INFO  [log] Début du test -- Cas : 1.2 307
+2018-04-10 14:43:10,060 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:43:10,060 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:43:10,646 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:10,646 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:43:11,252 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:43:11,252 INFO  [log] Début du test -- Cas : 1.4 384
+2018-04-10 14:43:11,814 INFO  [log] Fin du test -- Cas : 1.4
+2018-04-10 14:43:11,815 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:43:12,423 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:12,423 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 14:43:13,031 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:13,228 INFO  [log] Début du test -- Cas : 1.1 384
+2018-04-10 14:43:13,810 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:13,810 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:14,498 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:14,498 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:43:15,010 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:15,010 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:43:15,565 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:15,565 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:43:16,237 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:43:16,238 INFO  [log] Début du test -- Cas : 1.3 385
+2018-04-10 14:43:16,893 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:43:16,893 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:43:17,568 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:17,701 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:18,344 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:18,344 INFO  [log] Début du test -- Cas : 1.0 196
+2018-04-10 14:43:18,857 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:18,857 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:43:19,369 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:19,369 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:43:19,881 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:19,881 INFO  [log] Début du test -- Cas : 1.5 384
+2018-04-10 14:43:20,440 INFO  [log] Fin du test -- Cas : 1.5
+2018-04-10 14:43:20,440 INFO  [log] Début du test -- Cas : 1.1 300
+2018-04-10 14:43:20,958 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:20,958 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:43:21,506 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:21,715 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:43:22,230 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:22,230 INFO  [log] Début du test -- Cas : 1.1 384
+2018-04-10 14:43:22,773 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:22,823 INFO  [log] Début du test -- Cas : 1.3 370
+2018-04-10 14:43:23,385 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:43:23,408 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:24,282 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:24,282 INFO  [log] Début du test -- Cas : 1.2 300
+2018-04-10 14:43:24,834 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:43:24,834 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:43:25,378 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:25,560 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:26,092 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:26,092 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:43:26,618 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:27,029 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:27,864 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:27,865 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:43:28,447 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:28,448 INFO  [log] Début du test -- Cas : 1.0 306
+2018-04-10 14:43:29,041 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:29,041 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:43:29,609 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:29,609 INFO  [log] Début du test -- Cas : 1.0 381
+2018-04-10 14:43:30,443 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:30,444 INFO  [log] Début du test -- Cas : 1.0 312
+2018-04-10 14:43:31,428 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:31,648 INFO  [log] Début du test -- Cas : null 000
+2018-04-10 14:43:32,158 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:43:32,158 INFO  [log] Début du test -- Cas : null 301
+2018-04-10 14:43:32,671 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:43:32,986 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:43:33,598 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:34,325 INFO  [log] Début du test -- Cas : null 196
+2018-04-10 14:43:34,333 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:43:34,333 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:43:34,844 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:35,096 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:43:35,738 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:35,738 INFO  [log] Début du test -- Cas : null 303
+2018-04-10 14:43:36,250 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:43:36,250 INFO  [log] Début du test -- Cas : 1.0 304
+2018-04-10 14:43:36,855 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:36,983 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:37,637 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:37,664 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:43:38,177 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:38,177 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:43:38,760 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:38,760 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:43:39,305 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:39,305 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 14:43:39,823 INFO  [log] Fin du test -- Cas : 1.0

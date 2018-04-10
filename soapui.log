@@ -1,669 +1,606 @@
-2018-04-09 17:25:37,756 WARN  [SoapUI] Missing folder [/Users/mac/Desktop/S2M/workspace/mavenProject/./ext] for external libraries
-2018-04-09 17:25:38,453 INFO  [DefaultSoapUICore] initialized soapui-settings from [/Users/mac/soapui-settings.xml]
-2018-04-09 17:25:39,771 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [/Users/mac/Desktop/S2M/workspace/mavenProject/scripts]
-2018-04-09 17:25:44,168 INFO  [WsdlProject] Loaded project from [file:/Users/mac/Desktop/S2M/workspace/mavenProject/src/test/resources/souscription2.xml]
-2018-04-09 17:25:46,731 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [/Users/mac/Desktop/S2M/workspace/mavenProject/scripts]
-2018-04-09 17:25:48,024 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,027 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,029 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,032 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,033 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,035 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,037 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,039 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,041 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,042 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,044 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,045 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,048 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,049 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,051 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,053 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,055 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,057 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,058 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,060 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,061 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,063 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
-2018-04-09 17:25:48,713 INFO  [SoapUIProTestCaseRunner] Setting project property [message] to [Hello World!]
-2018-04-09 17:25:48,714 INFO  [SoapUIProTestCaseRunner] Running SoapUI tests in project [souscription]
-2018-04-09 17:25:48,785 INFO  [SoapUIProTestCaseRunner] Running Project [souscription], runType = SEQUENTIAL
-2018-04-09 17:25:48,872 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetAgentAllowedAccount]
-2018-04-09 17:25:48,935 INFO  [SoapUIProTestCaseRunner] running step [Groovy Script]
-2018-04-09 17:25:56,061 INFO  [log] Début du test -- Cas : 1.1 000
-2018-04-09 17:25:56,099 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
-2018-04-09 17:25:57,034 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:25:57,034 INFO  [log] Début du test -- Cas : 1.1 353
-2018-04-09 17:25:57,034 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
-2018-04-09 17:25:57,568 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:25:57,568 INFO  [log] Début du test -- Cas : 1.1 351
-2018-04-09 17:25:57,568 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
-2018-04-09 17:25:58,116 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:25:58,117 INFO  [log] Début du test -- Cas : 1.1 350
-2018-04-09 17:25:58,118 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
-2018-04-09 17:25:58,659 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:25:58,659 INFO  [log] Début du test -- Cas : 1.2 384
-2018-04-09 17:25:58,659 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
-2018-04-09 17:25:59,201 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:25:59,201 INFO  [log] Début du test -- Cas : 1.3 300
-2018-04-09 17:25:59,201 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
-2018-04-09 17:25:59,738 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:25:59,738 INFO  [log] Début du test -- Cas : 1.1 302
-2018-04-09 17:25:59,739 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
-2018-04-09 17:26:00,288 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:00,288 INFO  [log] Début du test -- Cas : 1.1 316
-2018-04-09 17:26:00,288 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
-2018-04-09 17:26:00,966 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:00,966 INFO  [log] Début du test -- Cas : 1.1 307
-2018-04-09 17:26:00,967 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
-2018-04-09 17:26:01,507 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:01,508 INFO  [log] Début du test -- Cas : 1.1 321
-2018-04-09 17:26:01,508 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
-2018-04-09 17:26:02,050 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:02,051 INFO  [log] Début du test -- Cas : 1.1 108
-2018-04-09 17:26:02,051 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
-2018-04-09 17:26:02,585 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:02,586 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
-2018-04-09 17:26:03,120 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetAgentAllowedAccount], time taken: 14751ms, status: FINISHED
-2018-04-09 17:26:03,136 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CreatePIN]
-2018-04-09 17:26:03,137 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
-2018-04-09 17:26:03,433 INFO  [SoapUIProTestCaseRunner] running step [dateReader]
-2018-04-09 17:26:03,698 INFO  [log] Début du test -- Cas : 1.0 000
-2018-04-09 17:26:03,698 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
-2018-04-09 17:26:03,956 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:03,957 INFO  [log] Début du test -- Cas : 1.2 196
-2018-04-09 17:26:03,957 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
-2018-04-09 17:26:04,629 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:26:04,629 INFO  [log] Début du test -- Cas : 1.2 301
-2018-04-09 17:26:04,629 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
-2018-04-09 17:26:05,523 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:26:05,524 INFO  [log] Début du test -- Cas : 1.0 307
-2018-04-09 17:26:05,524 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
-2018-04-09 17:26:06,161 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:06,161 INFO  [log] Début du test -- Cas : 1.2 302
-2018-04-09 17:26:06,161 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
-2018-04-09 17:26:06,738 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:26:06,743 INFO  [log] Début du test -- Cas : 1.4 384
-2018-04-09 17:26:06,744 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
-2018-04-09 17:26:07,337 INFO  [log] Fin du test -- Cas : 1.4
-2018-04-09 17:26:07,337 INFO  [log] Début du test -- Cas : 1.0 300
-2018-04-09 17:26:07,337 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
-2018-04-09 17:26:07,867 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:08,277 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CreatePIN], time taken: 5984ms, status: FINISHED
-2018-04-09 17:26:08,278 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CheckPhone]
-2018-04-09 17:26:08,279 INFO  [SoapUIProTestCaseRunner] running step [DataReader]
-2018-04-09 17:26:08,492 INFO  [log] Début du test -- Cas : 1.1 302
-2018-04-09 17:26:08,492 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
-2018-04-09 17:26:08,558 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:08,558 INFO  [log] Début du test -- Cas : 1.1 000
-2018-04-09 17:26:08,559 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
-2018-04-09 17:26:09,271 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:09,272 INFO  [log] Début du test -- Cas : 1.1 301
-2018-04-09 17:26:09,272 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
-2018-04-09 17:26:10,049 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:10,050 INFO  [log] Début du test -- Cas : 1.6 384
-2018-04-09 17:26:10,050 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
-2018-04-09 17:26:10,632 INFO  [log] Fin du test -- Cas : 1.6
-2018-04-09 17:26:10,632 INFO  [log] Début du test -- Cas : 1.1 307
-2018-04-09 17:26:10,632 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
-2018-04-09 17:26:11,148 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:11,148 INFO  [log] Début du test -- Cas : 1.0 308 
-2018-04-09 17:26:11,148 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
-2018-04-09 17:26:11,815 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:11,815 INFO  [log] Début du test -- Cas : 1.3 300
-2018-04-09 17:26:11,815 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
-2018-04-09 17:26:12,432 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:26:12,432 INFO  [log] Début du test -- Cas : 1.1 196
-2018-04-09 17:26:12,432 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
-2018-04-09 17:26:13,057 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:13,058 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CheckPhone], time taken: 5786ms, status: FINISHED
-2018-04-09 17:26:13,059 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetContract]
-2018-04-09 17:26:13,060 INFO  [SoapUIProTestCaseRunner] running step [getContract]
-2018-04-09 17:26:13,074 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-04-09 17:26:13,257 INFO  [log] Début du test -- Cas : 1.0 000
-2018-04-09 17:26:13,257 INFO  [SoapUIProTestCaseRunner] running step [getContract]
-2018-04-09 17:26:13,936 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:13,937 INFO  [log] Début du test -- Cas : 1.0 307
-2018-04-09 17:26:13,937 INFO  [SoapUIProTestCaseRunner] running step [getContract]
-2018-04-09 17:26:14,454 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:14,455 INFO  [log] Début du test -- Cas : 1.3 300
-2018-04-09 17:26:14,455 INFO  [SoapUIProTestCaseRunner] running step [getContract]
-2018-04-09 17:26:15,176 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:26:15,176 INFO  [log] Début du test -- Cas : 1.3 384
-2018-04-09 17:26:15,176 INFO  [SoapUIProTestCaseRunner] running step [getContract]
-2018-04-09 17:26:15,764 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:26:15,765 INFO  [log] Début du test -- Cas : 1.0 383
-2018-04-09 17:26:15,765 INFO  [SoapUIProTestCaseRunner] running step [getContract]
-2018-04-09 17:26:16,524 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:16,524 INFO  [log] Début du test -- Cas : 1.0 302
-2018-04-09 17:26:16,524 INFO  [SoapUIProTestCaseRunner] running step [getContract]
-2018-04-09 17:26:17,095 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:17,096 INFO  [log] Début du test -- Cas : 1.0 301
-2018-04-09 17:26:17,096 INFO  [SoapUIProTestCaseRunner] running step [getContract]
-2018-04-09 17:26:17,775 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:17,776 INFO  [log] Début du test -- Cas :  196
-2018-04-09 17:26:17,776 INFO  [SoapUIProTestCaseRunner] running step [getContract]
-2018-04-09 17:26:18,292 INFO  [log] Fin du test -- Cas : 
-2018-04-09 17:26:18,292 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetContract], time taken: 6187ms, status: FINISHED
-2018-04-09 17:26:18,293 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CkeckToken]
-2018-04-09 17:26:18,294 INFO  [SoapUIProTestCaseRunner] running step [DataReader]
-2018-04-09 17:26:18,464 INFO  [log] Début du test --Cas: 1.2 307
-2018-04-09 17:26:18,465 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
-2018-04-09 17:26:18,603 INFO  [log] Fin du test --cas: 1.2
-2018-04-09 17:26:18,604 INFO  [log] Début du test --Cas: 1.1 300
-2018-04-09 17:26:18,604 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
-2018-04-09 17:26:19,134 INFO  [log] Fin du test --cas: 1.1
-2018-04-09 17:26:19,134 INFO  [log] Début du test --Cas: 1.2 305
-2018-04-09 17:26:19,134 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
-2018-04-09 17:26:19,970 INFO  [log] Fin du test --cas: 1.2
-2018-04-09 17:26:19,970 INFO  [log] Début du test --Cas: 1.0 306
-2018-04-09 17:26:19,970 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
-2018-04-09 17:26:20,826 INFO  [log] Fin du test --cas: 1.0
-2018-04-09 17:26:20,826 INFO  [log] Début du test --Cas: 1.3 384
-2018-04-09 17:26:20,826 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
-2018-04-09 17:26:21,404 INFO  [log] Fin du test --cas: 1.3
-2018-04-09 17:26:21,405 INFO  [log] Début du test --Cas: 1.2 302
-2018-04-09 17:26:21,405 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
-2018-04-09 17:26:21,976 INFO  [log] Fin du test --cas: 1.2
-2018-04-09 17:26:21,976 INFO  [log] Début du test --Cas: 1.2 000
-2018-04-09 17:26:21,976 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
-2018-04-09 17:26:22,734 INFO  [log] Fin du test --cas: 1.2
-2018-04-09 17:26:22,734 INFO  [log] Début du test --Cas: 1.0 308
-2018-04-09 17:26:22,735 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
-2018-04-09 17:26:23,560 INFO  [log] Fin du test --cas: 1.0
-2018-04-09 17:26:23,560 INFO  [log] Début du test --Cas: 1.2 303
-2018-04-09 17:26:23,560 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
-2018-04-09 17:26:24,624 INFO  [log] Fin du test --cas: 1.2
-2018-04-09 17:26:24,679 INFO  [log] Début du test --Cas: null 196
-2018-04-09 17:26:24,679 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
-2018-04-09 17:26:25,198 INFO  [log] Fin du test --cas: null
-2018-04-09 17:26:25,199 INFO  [log] Début du test --Cas: 1.2 301
-2018-04-09 17:26:25,199 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
-2018-04-09 17:26:25,972 INFO  [log] Fin du test --cas: 1.2
-2018-04-09 17:26:25,972 INFO  [log] Début du test --Cas: 1.2 304
-2018-04-09 17:26:25,972 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
-2018-04-09 17:26:26,958 INFO  [log] Fin du test --cas: 1.2
-2018-04-09 17:26:26,958 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
-2018-04-09 17:26:27,963 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CkeckToken], time taken: 12009ms, status: FINISHED
-2018-04-09 17:26:27,964 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GenerateOTP]
-2018-04-09 17:26:27,964 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
-2018-04-09 17:26:27,977 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-04-09 17:26:28,152 INFO  [log] Début du test -- Cas : 1.3 300
-2018-04-09 17:26:28,152 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
-2018-04-09 17:26:28,670 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:26:28,671 INFO  [log] Début du test -- Cas : 1.0 384
-2018-04-09 17:26:28,671 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
-2018-04-09 17:26:29,187 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:29,187 INFO  [log] Début du test -- Cas : 1.0 000
-2018-04-09 17:26:29,187 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
-2018-04-09 17:26:29,704 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:29,705 INFO  [log] Début du test -- Cas : 1.0 307
-2018-04-09 17:26:29,705 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
-2018-04-09 17:26:30,219 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:30,219 INFO  [log] Début du test -- Cas : 1.0 301
-2018-04-09 17:26:30,219 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
-2018-04-09 17:26:30,736 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:30,736 INFO  [log] Début du test -- Cas : null 196
-2018-04-09 17:26:30,736 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
-2018-04-09 17:26:31,254 INFO  [log] Fin du test -- Cas : null
-2018-04-09 17:26:31,254 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GenerateOTP], time taken: 3337ms, status: FINISHED
-2018-04-09 17:26:31,255 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CheckOTP]
-2018-04-09 17:26:31,256 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
-2018-04-09 17:26:31,326 INFO  [SoapUIProTestCaseRunner] running step [dataREader]
-2018-04-09 17:26:31,482 INFO  [log] Début du test -- Cas : 1.2 000
-2018-04-09 17:26:31,483 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
-2018-04-09 17:26:32,248 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:26:32,248 INFO  [log] Début du test -- Cas :  196
-2018-04-09 17:26:32,248 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
-2018-04-09 17:26:32,760 INFO  [log] Fin du test -- Cas : 
-2018-04-09 17:26:32,760 INFO  [log] Début du test -- Cas : 1.1 307
-2018-04-09 17:26:32,761 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
-2018-04-09 17:26:33,274 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:33,274 INFO  [log] Début du test -- Cas : 1.3 300
-2018-04-09 17:26:33,274 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
-2018-04-09 17:26:33,939 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:26:33,939 INFO  [log] Début du test -- Cas : 1.2 301
-2018-04-09 17:26:33,939 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
-2018-04-09 17:26:34,689 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:26:34,690 INFO  [log] Début du test -- Cas : 1.2 306
-2018-04-09 17:26:34,690 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
-2018-04-09 17:26:35,303 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:26:35,303 INFO  [log] Début du test -- Cas : 1.2 310
-2018-04-09 17:26:35,303 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
-2018-04-09 17:26:35,938 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:26:35,938 INFO  [log] Début du test -- Cas : 1.3 384
-2018-04-09 17:26:35,938 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
-2018-04-09 17:26:36,496 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:26:36,497 INFO  [log] Début du test -- Cas : 1.0 302
-2018-04-09 17:26:36,497 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
-2018-04-09 17:26:37,059 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:37,059 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CheckOTP], time taken: 6813ms, status: FINISHED
-2018-04-09 17:26:37,060 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-EnrollAgent]
-2018-04-09 17:26:37,061 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
-2018-04-09 17:26:37,206 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-04-09 17:26:37,387 INFO  [log] Début du test -- Cas : 1.1 000
-2018-04-09 17:26:37,387 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
-2018-04-09 17:26:37,998 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:37,999 INFO  [log] Début du test -- Cas : 1.1 196
-2018-04-09 17:26:37,999 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
-2018-04-09 17:26:38,626 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:38,626 INFO  [log] Début du test -- Cas : 1.1 307
-2018-04-09 17:26:38,626 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
-2018-04-09 17:26:39,255 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:39,255 INFO  [log] Début du test -- Cas :  301
-2018-04-09 17:26:39,255 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
-2018-04-09 17:26:39,770 INFO  [log] Fin du test -- Cas : 
-2018-04-09 17:26:39,770 INFO  [log] Début du test -- Cas : 1.1 302
-2018-04-09 17:26:39,770 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
-2018-04-09 17:26:40,339 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:40,340 INFO  [log] Début du test -- Cas : 1.2 384
-2018-04-09 17:26:40,340 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
-2018-04-09 17:26:41,160 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:26:41,160 INFO  [log] Début du test -- Cas : 1.3 300
-2018-04-09 17:26:41,160 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
-2018-04-09 17:26:41,792 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:26:41,792 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-EnrollAgent], time taken: 5576ms, status: FINISHED
-2018-04-09 17:26:41,793 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CheckLogin]
-2018-04-09 17:26:41,793 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
-2018-04-09 17:26:41,866 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-04-09 17:26:42,017 INFO  [log] Début du test -- Cas : 1.2 000
-2018-04-09 17:26:42,017 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
-2018-04-09 17:26:42,647 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:26:42,647 INFO  [log] Début du test -- Cas :  196
-2018-04-09 17:26:42,647 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
-2018-04-09 17:26:43,157 INFO  [log] Fin du test -- Cas : 
-2018-04-09 17:26:43,157 INFO  [log] Début du test -- Cas : 1.0 307
-2018-04-09 17:26:43,157 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
-2018-04-09 17:26:43,757 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:43,757 INFO  [log] Début du test -- Cas : 1.1 300
-2018-04-09 17:26:43,757 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
-2018-04-09 17:26:44,284 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:44,284 INFO  [log] Début du test -- Cas : 1.2 301
-2018-04-09 17:26:44,284 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
-2018-04-09 17:26:44,916 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:26:44,916 INFO  [log] Début du test -- Cas : 1.0 311 
-2018-04-09 17:26:44,916 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
-2018-04-09 17:26:45,605 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:45,605 INFO  [log] Début du test -- Cas : 1.0 302
-2018-04-09 17:26:45,605 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
-2018-04-09 17:26:46,193 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:46,193 INFO  [log] Début du test -- Cas : 1.2 384
-2018-04-09 17:26:46,193 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
-2018-04-09 17:26:46,758 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:26:46,758 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CheckLogin], time taken: 5660ms, status: FINISHED
-2018-04-09 17:26:46,759 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-EnrollUnBankedCustomer]
-2018-04-09 17:26:46,759 INFO  [SoapUIProTestCaseRunner] running step [enrollUnBankedCustomer]
-2018-04-09 17:26:46,769 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-04-09 17:26:46,912 INFO  [log] Début du test -- Cas : 1.0 000
-2018-04-09 17:26:46,912 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
-2018-04-09 17:26:47,030 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:47,030 INFO  [log] Début du test -- Cas : 1.0 196
-2018-04-09 17:26:47,031 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
-2018-04-09 17:26:47,661 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:47,661 INFO  [log] Début du test -- Cas : 1.2 307
-2018-04-09 17:26:47,661 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
-2018-04-09 17:26:48,234 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:26:48,234 INFO  [log] Début du test -- Cas : 1.0 301
-2018-04-09 17:26:48,235 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
-2018-04-09 17:26:48,845 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:48,846 INFO  [log] Début du test -- Cas : 1.0 302
-2018-04-09 17:26:48,846 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
-2018-04-09 17:26:49,568 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:49,568 INFO  [log] Début du test -- Cas : 1.0 384
-2018-04-09 17:26:49,568 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
-2018-04-09 17:26:50,139 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:50,140 INFO  [log] Début du test -- Cas : 1.3 300
-2018-04-09 17:26:50,140 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
-2018-04-09 17:26:50,823 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:26:50,926 INFO  [log] Début du test -- Cas : null null
-2018-04-09 17:26:50,926 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
-2018-04-09 17:26:51,438 INFO  [log] Fin du test -- Cas : null
-2018-04-09 17:26:51,438 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
-2018-04-09 17:26:51,954 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-EnrollUnBankedCustomer], time taken: 5524ms, status: FINISHED
-2018-04-09 17:26:51,955 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-EnrollBankedCustomer]
-2018-04-09 17:26:51,955 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
-2018-04-09 17:26:52,052 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-04-09 17:26:52,211 INFO  [log] Début du test -- Cas : 1.0 000
-2018-04-09 17:26:52,211 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
-2018-04-09 17:26:53,406 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:53,406 INFO  [log] Début du test -- Cas : 1.0 196
-2018-04-09 17:26:53,406 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
-2018-04-09 17:26:54,053 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:54,053 INFO  [log] Début du test -- Cas : 1.0 307
-2018-04-09 17:26:54,053 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
-2018-04-09 17:26:54,687 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:54,688 INFO  [log] Début du test -- Cas : 1.0 301
-2018-04-09 17:26:54,688 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
-2018-04-09 17:26:55,300 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:55,301 INFO  [log] Début du test -- Cas : 1.3 300
-2018-04-09 17:26:55,301 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
-2018-04-09 17:26:55,945 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:26:55,945 INFO  [log] Début du test -- Cas : 1.0 302
-2018-04-09 17:26:55,945 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
-2018-04-09 17:26:56,839 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:26:56,840 INFO  [log] Début du test -- Cas : 1.1 384
-2018-04-09 17:26:56,840 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
-2018-04-09 17:26:57,421 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:57,421 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-EnrollBankedCustomer], time taken: 7123ms, status: FINISHED
-2018-04-09 17:26:57,422 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-SubscribeSubAgentOperator]
-2018-04-09 17:26:57,422 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
-2018-04-09 17:26:57,751 INFO  [SoapUIProTestCaseRunner] running step [DataReader]
-2018-04-09 17:26:57,895 INFO  [log] Début du test -- Cas : 1.1 000
-2018-04-09 17:26:57,896 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
-2018-04-09 17:26:58,690 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:58,690 INFO  [log] Début du test -- Cas : 1.1 196
-2018-04-09 17:26:58,690 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
-2018-04-09 17:26:59,377 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:59,377 INFO  [log] Début du test -- Cas : 1.1 307
-2018-04-09 17:26:59,377 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
-2018-04-09 17:26:59,984 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:26:59,984 INFO  [log] Début du test -- Cas : 1.1 321
-2018-04-09 17:26:59,984 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
-2018-04-09 17:27:00,718 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:27:00,718 INFO  [log] Début du test -- Cas : 1.1 301
-2018-04-09 17:27:00,718 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
-2018-04-09 17:27:01,234 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:27:01,234 INFO  [log] Début du test -- Cas : 1.3 300
-2018-04-09 17:27:01,235 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
-2018-04-09 17:27:01,904 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:27:01,904 INFO  [log] Début du test -- Cas : 1.1 302
-2018-04-09 17:27:01,904 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
-2018-04-09 17:27:02,467 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:27:02,467 INFO  [log] Début du test -- Cas :  340
-2018-04-09 17:27:02,467 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
-2018-04-09 17:27:02,980 INFO  [log] Fin du test -- Cas : 
-2018-04-09 17:27:02,980 INFO  [log] Début du test -- Cas :  341
-2018-04-09 17:27:02,980 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
-2018-04-09 17:27:03,497 INFO  [log] Fin du test -- Cas : 
-2018-04-09 17:27:03,497 INFO  [log] Début du test -- Cas : 1.1 308
-2018-04-09 17:27:03,497 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
-2018-04-09 17:27:04,174 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:27:04,175 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-SubscribeSubAgentOperator], time taken: 7960ms, status: FINISHED
-2018-04-09 17:27:04,175 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT16-EnrollSubAgentOperator]
-2018-04-09 17:27:04,176 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
-2018-04-09 17:27:04,266 INFO  [SoapUIProTestCaseRunner] running step [EnrollSubAgentOperator]
-2018-04-09 17:27:04,424 INFO  [log] Début du test -- Cas : 1.1 000
-2018-04-09 17:27:04,424 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
-2018-04-09 17:27:05,151 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:27:05,152 INFO  [log] Début du test -- Cas : 1.1 196
-2018-04-09 17:27:05,152 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
-2018-04-09 17:27:05,749 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:27:05,749 INFO  [log] Début du test -- Cas : 1.1 307
-2018-04-09 17:27:05,749 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
-2018-04-09 17:27:06,335 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:27:06,336 INFO  [log] Début du test -- Cas :  301
-2018-04-09 17:27:06,336 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
-2018-04-09 17:27:06,853 INFO  [log] Fin du test -- Cas : 
-2018-04-09 17:27:06,853 INFO  [log] Début du test -- Cas : 1.1 302
-2018-04-09 17:27:06,853 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
-2018-04-09 17:27:07,417 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:27:07,417 INFO  [log] Début du test -- Cas : 1.2 384
-2018-04-09 17:27:07,417 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
-2018-04-09 17:27:07,988 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:27:07,988 INFO  [log] Début du test -- Cas : 1.3 300
-2018-04-09 17:27:07,988 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
-2018-04-09 17:27:08,621 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:27:08,621 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT16-EnrollSubAgentOperator], time taken: 5087ms, status: FINISHED
-2018-04-09 17:27:08,622 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetSecretQuestions]
-2018-04-09 17:27:08,622 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
-2018-04-09 17:27:08,633 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-04-09 17:27:08,757 INFO  [log] Début du test -- Cas : 1.0 302
-2018-04-09 17:27:08,757 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
-2018-04-09 17:27:09,334 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:09,334 INFO  [log] Début du test -- Cas : 1.0 000
-2018-04-09 17:27:09,334 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
-2018-04-09 17:27:10,191 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:10,192 INFO  [log] Début du test -- Cas : 1.0 309
-2018-04-09 17:27:10,192 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
-2018-04-09 17:27:10,884 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:10,885 INFO  [log] Début du test -- Cas : 1.0 307
-2018-04-09 17:27:10,885 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
-2018-04-09 17:27:11,402 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:11,402 INFO  [log] Début du test -- Cas : 1.0 384
-2018-04-09 17:27:11,402 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
-2018-04-09 17:27:11,973 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:11,973 INFO  [log] Début du test -- Cas : 1.1 300
-2018-04-09 17:27:11,973 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
-2018-04-09 17:27:12,505 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:27:12,505 INFO  [log] Début du test -- Cas : 1.0 301
-2018-04-09 17:27:12,505 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
-2018-04-09 17:27:13,157 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:13,158 INFO  [log] Début du test -- Cas : null 196
-2018-04-09 17:27:13,158 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
-2018-04-09 17:27:13,671 INFO  [log] Fin du test -- Cas : null
-2018-04-09 17:27:13,671 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetSecretQuestions], time taken: 5865ms, status: FINISHED
-2018-04-09 17:27:13,672 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GenerateOTPUnbanked]
-2018-04-09 17:27:13,673 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
-2018-04-09 17:27:13,800 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-04-09 17:27:13,927 INFO  [log] Début du test -- Cas : 1.0 000
-2018-04-09 17:27:13,927 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
-2018-04-09 17:27:14,610 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:14,611 INFO  [log] Début du test -- Cas : 1.2 307
-2018-04-09 17:27:14,611 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
-2018-04-09 17:27:15,222 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:27:15,260 INFO  [log] Début du test -- Cas : 1.0 302
-2018-04-09 17:27:15,260 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
-2018-04-09 17:27:15,869 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:15,869 INFO  [log] Début du test -- Cas : 1.3 300
-2018-04-09 17:27:15,869 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
-2018-04-09 17:27:16,458 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:27:16,458 INFO  [log] Début du test -- Cas : 1.4 384
-2018-04-09 17:27:16,458 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
-2018-04-09 17:27:17,010 INFO  [log] Fin du test -- Cas : 1.4
-2018-04-09 17:27:17,010 INFO  [log] Début du test -- Cas : 1.0 301
-2018-04-09 17:27:17,010 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
-2018-04-09 17:27:17,588 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:17,588 INFO  [log] Début du test -- Cas : 1.1 196
-2018-04-09 17:27:17,588 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
-2018-04-09 17:27:18,162 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:27:18,162 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GenerateOTPUnbanked], time taken: 5134ms, status: FINISHED
-2018-04-09 17:27:18,163 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetNationality]
-2018-04-09 17:27:18,164 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
-2018-04-09 17:27:18,173 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-04-09 17:27:18,300 INFO  [log] Début du test -- Cas : 1.1 384
-2018-04-09 17:27:18,301 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
-2018-04-09 17:27:18,871 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:27:18,872 INFO  [log] Début du test -- Cas : 1.0 000
-2018-04-09 17:27:18,872 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
-2018-04-09 17:27:19,668 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:19,668 INFO  [log] Début du test -- Cas : 1.0 307
-2018-04-09 17:27:19,668 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
-2018-04-09 17:27:20,181 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:20,196 INFO  [log] Début du test -- Cas : 1.0 302
-2018-04-09 17:27:20,196 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
-2018-04-09 17:27:20,829 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:20,830 INFO  [log] Début du test -- Cas : 1.3 300
-2018-04-09 17:27:20,830 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
-2018-04-09 17:27:21,469 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:27:21,469 INFO  [log] Début du test -- Cas : 1.3 385
-2018-04-09 17:27:21,469 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
-2018-04-09 17:27:22,132 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:27:22,183 INFO  [log] Début du test -- Cas : 1.0 301
-2018-04-09 17:27:22,183 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
-2018-04-09 17:27:22,842 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:22,863 INFO  [log] Début du test -- Cas : null 196
-2018-04-09 17:27:22,863 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
-2018-04-09 17:27:23,377 INFO  [log] Fin du test -- Cas : null
-2018-04-09 17:27:23,378 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetNationality], time taken: 6036ms, status: FINISHED
-2018-04-09 17:27:23,379 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetCity]
-2018-04-09 17:27:23,379 INFO  [SoapUIProTestCaseRunner] running step [getCity]
-2018-04-09 17:27:23,391 INFO  [SoapUIProTestCaseRunner] running step [DataReader]
-2018-04-09 17:27:23,510 INFO  [log] Début du test -- Cas : 1.0 000
-2018-04-09 17:27:23,510 INFO  [SoapUIProTestCaseRunner] running step [getCity]
-2018-04-09 17:27:24,218 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:24,218 INFO  [log] Début du test -- Cas : 1.0 196
-2018-04-09 17:27:24,219 INFO  [SoapUIProTestCaseRunner] running step [getCity]
-2018-04-09 17:27:24,734 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:24,734 INFO  [log] Début du test -- Cas : 1.0 301
-2018-04-09 17:27:24,735 INFO  [SoapUIProTestCaseRunner] running step [getCity]
-2018-04-09 17:27:25,247 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:25,247 INFO  [log] Début du test -- Cas : 1.0 307
-2018-04-09 17:27:25,247 INFO  [SoapUIProTestCaseRunner] running step [getCity]
-2018-04-09 17:27:25,761 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:25,761 INFO  [log] Début du test -- Cas : 1.5 384
-2018-04-09 17:27:25,761 INFO  [SoapUIProTestCaseRunner] running step [getCity]
-2018-04-09 17:27:26,335 INFO  [log] Fin du test -- Cas : 1.5
-2018-04-09 17:27:26,335 INFO  [log] Début du test -- Cas : 1.1 300
-2018-04-09 17:27:26,335 INFO  [SoapUIProTestCaseRunner] running step [getCity]
-2018-04-09 17:27:26,863 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:27:26,863 INFO  [log] Début du test -- Cas : 1.0 302
-2018-04-09 17:27:26,863 INFO  [SoapUIProTestCaseRunner] running step [getCity]
-2018-04-09 17:27:27,430 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:27,430 INFO  [log] Début du test -- Cas : null null
-2018-04-09 17:27:27,430 INFO  [SoapUIProTestCaseRunner] running step [getCity]
-2018-04-09 17:27:27,941 INFO  [log] Fin du test -- Cas : null
-2018-04-09 17:27:27,942 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetCity], time taken: 4938ms, status: FINISHED
-2018-04-09 17:27:27,943 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-login]
-2018-04-09 17:27:27,944 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
-2018-04-09 17:27:28,027 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-04-09 17:27:28,166 INFO  [log] Début du test -- Cas : 1.0 307
-2018-04-09 17:27:28,166 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
-2018-04-09 17:27:28,681 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:28,681 INFO  [log] Début du test -- Cas : 1.1 384
-2018-04-09 17:27:28,681 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
-2018-04-09 17:27:29,201 INFO  [log] Fin du test -- Cas : 1.1
-2018-04-09 17:27:29,202 INFO  [log] Début du test -- Cas : 1.3 370
-2018-04-09 17:27:29,202 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
-2018-04-09 17:27:29,782 INFO  [log] Fin du test -- Cas : 1.3
-2018-04-09 17:27:29,782 INFO  [log] Début du test -- Cas : 1.0 000
-2018-04-09 17:27:29,782 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
-2018-04-09 17:27:30,608 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:30,609 INFO  [log] Début du test -- Cas : 1.2 300
-2018-04-09 17:27:30,609 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
-2018-04-09 17:27:31,185 INFO  [log] Fin du test -- Cas : 1.2
-2018-04-09 17:27:31,185 INFO  [log] Début du test -- Cas : 1.0 300
-2018-04-09 17:27:31,185 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
-2018-04-09 17:27:31,746 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:31,746 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-login], time taken: 4338ms, status: FINISHED
-2018-04-09 17:27:31,747 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-Logout]
-2018-04-09 17:27:31,747 INFO  [SoapUIProTestCaseRunner] running step [logOut]
-2018-04-09 17:27:31,784 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-04-09 17:27:31,911 INFO  [log] Début du test -- Cas : 1.0 000
-2018-04-09 17:27:31,911 INFO  [SoapUIProTestCaseRunner] running step [logOut]
-2018-04-09 17:27:32,448 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:32,448 INFO  [log] Début du test -- Cas : 1.0 300
-2018-04-09 17:27:32,448 INFO  [SoapUIProTestCaseRunner] running step [logOut]
-2018-04-09 17:27:32,983 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:27:32,983 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-Logout], time taken: 1292ms, status: FINISHED
-2018-04-09 17:27:32,984 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ForgotPassword]
-2018-04-09 17:27:32,984 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
-2018-04-09 17:27:33,344 INFO  [SoapUIProTestCaseRunner] running step [dataREader]
-2018-04-09 17:27:33,485 INFO  [log] Début du test -- Cas : 1.0 000
-2018-04-09 17:27:33,485 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
-2018-04-09 17:28:34,000 ERROR [WsdlSubmit] Exception in request: java.net.SocketTimeoutException: Read timed out
-2018-04-09 17:28:34,078 ERROR [SoapUI] An error occurred [Read timed out], see error log for details
-2018-04-09 17:28:34,145 ERROR [errorlog] java.net.SocketTimeoutException: Read timed out
-java.net.SocketTimeoutException: Read timed out
-	at java.net.SocketInputStream.socketRead0(Native Method)
-	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
-	at java.net.SocketInputStream.read(SocketInputStream.java:171)
-	at java.net.SocketInputStream.read(SocketInputStream.java:141)
-	at org.apache.http.impl.io.AbstractSessionInputBuffer.fillBuffer(AbstractSessionInputBuffer.java:149)
-	at org.apache.http.impl.io.SocketInputBuffer.fillBuffer(SocketInputBuffer.java:110)
-	at org.apache.http.impl.io.AbstractSessionInputBuffer.readLine(AbstractSessionInputBuffer.java:264)
-	at org.apache.http.impl.conn.DefaultResponseParser.parseHead(DefaultResponseParser.java:98)
-	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:252)
-	at org.apache.http.impl.AbstractHttpClientConnection.receiveResponseHeader(AbstractHttpClientConnection.java:281)
-	at org.apache.http.impl.conn.DefaultClientConnection.receiveResponseHeader(DefaultClientConnection.java:247)
-	at org.apache.http.impl.conn.AbstractClientConnAdapter.receiveResponseHeader(AbstractClientConnAdapter.java:219)
-	at com.eviware.soapui.impl.wsdl.support.http.HttpClientSupport$SoapUIHttpRequestExecutor.doReceiveResponse(HttpClientSupport.java:152)
-	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
-	at org.apache.http.impl.client.DefaultRequestDirector.tryExecute(DefaultRequestDirector.java:633)
-	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:454)
-	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:820)
-	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:754)
-	at com.eviware.soapui.impl.wsdl.support.http.HttpClientSupport$Helper.execute(HttpClientSupport.java:247)
-	at com.eviware.soapui.impl.wsdl.support.http.HttpClientSupport.execute(HttpClientSupport.java:357)
-	at com.eviware.soapui.impl.wsdl.submit.transports.http.HttpClientRequestTransport.submitRequest(HttpClientRequestTransport.java:318)
-	at com.eviware.soapui.impl.wsdl.submit.transports.http.HttpClientRequestTransport.sendRequest(HttpClientRequestTransport.java:232)
-	at com.eviware.soapui.impl.wsdl.WsdlSubmit.run(WsdlSubmit.java:123)
-	at com.eviware.soapui.impl.wsdl.WsdlSubmit.submitRequest(WsdlSubmit.java:76)
-	at com.eviware.soapui.impl.rest.RestRequest.submit(RestRequest.java:207)
-	at com.eviware.soapui.impl.wsdl.teststeps.RestTestRequestStep.run(RestTestRequestStep.java:898)
-	at com.eviware.soapui.impl.wsdl.support.AbstractTestCaseRunner.runTestStep(AbstractTestCaseRunner.java:239)
-	at com.eviware.soapui.impl.wsdl.support.AbstractTestCaseRunner.runTestStepByName(AbstractTestCaseRunner.java:220)
-	at com.eviware.soapui.model.testsuite.TestCaseRunner$runTestStepByName.call(Unknown Source)
-	at org.codehaus.groovy.runtime.callsite.CallSiteArray.defaultCall(CallSiteArray.java:42)
-	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:108)
-	at org.codehaus.groovy.runtime.callsite.AbstractCallSite.call(AbstractCallSite.java:116)
-	at Script1.run(Script1.groovy:62)
-	at com.eviware.soapui.support.scripting.groovy.SoapUIGroovyScriptEngine.run(SoapUIGroovyScriptEngine.java:96)
-	at com.eviware.soapui.support.scripting.groovy.SoapUIProGroovyScriptEngineFactory$SoapUIProGroovyScriptEngine.run(SourceFile:89)
-	at com.eviware.soapui.impl.wsdl.teststeps.WsdlGroovyScriptTestStep.run(WsdlGroovyScriptTestStep.java:149)
-	at com.eviware.soapui.impl.wsdl.support.AbstractTestCaseRunner.runTestStep(AbstractTestCaseRunner.java:239)
-	at com.eviware.soapui.impl.wsdl.testcase.WsdlTestCaseRunner.runCurrentTestStep(WsdlTestCaseRunner.java:48)
-	at com.eviware.soapui.impl.wsdl.support.AbstractTestCaseRunner.internalRun(AbstractTestCaseRunner.java:148)
-	at com.eviware.soapui.impl.wsdl.support.AbstractTestCaseRunner.internalRun(AbstractTestCaseRunner.java:43)
-	at com.eviware.soapui.impl.wsdl.support.AbstractTestRunner.run(AbstractTestRunner.java:135)
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-2018-04-09 17:28:34,148 ERROR [SoapUIProTestCaseRunner] dataREader failed, exporting to [/Users/mac/Desktop/S2M/workspace/mavenProject/output//ST20ForgotPassword-CTForgotPassword-dataREader-0-FAILED.txt]
-2018-04-09 17:28:34,175 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:28:34,200 INFO  [log] Début du test -- Cas : 1.0 300
-2018-04-09 17:28:34,200 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
-2018-04-09 17:28:34,817 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:28:34,817 INFO  [log] Début du test -- Cas : 1.0 306
-2018-04-09 17:28:34,817 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
-2018-04-09 17:28:35,568 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:28:35,568 INFO  [log] Début du test -- Cas : 1.0 302
-2018-04-09 17:28:35,568 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
-2018-04-09 17:28:36,140 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:28:36,140 INFO  [log] Début du test -- Cas : 1.0 381
-2018-04-09 17:28:36,140 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
-2018-04-09 17:28:36,998 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:28:36,998 INFO  [log] Début du test -- Cas : 1.0 312
-2018-04-09 17:28:36,998 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
-2018-04-09 17:28:37,838 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:28:37,839 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ForgotPassword], time taken: 65955ms, status: FAILED
-2018-04-09 17:28:37,867 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ForgotMySecretQuestion]
-2018-04-09 17:28:37,868 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
-2018-04-09 17:28:38,114 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-04-09 17:28:38,300 INFO  [log] Début du test -- Cas : null 000
-2018-04-09 17:28:38,300 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
-2018-04-09 17:28:38,813 INFO  [log] Fin du test -- Cas : null
-2018-04-09 17:28:38,813 INFO  [log] Début du test -- Cas : null 301
-2018-04-09 17:28:38,813 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
-2018-04-09 17:28:39,330 INFO  [log] Fin du test -- Cas : null
-2018-04-09 17:28:39,330 INFO  [log] Début du test -- Cas : 1.0 300
-2018-04-09 17:28:39,330 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
-2018-04-09 17:28:39,955 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:28:39,956 INFO  [log] Début du test -- Cas : null 196
-2018-04-09 17:28:39,956 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
-2018-04-09 17:28:40,473 INFO  [log] Fin du test -- Cas : null
-2018-04-09 17:28:40,474 INFO  [log] Début du test -- Cas : 1.0 307
-2018-04-09 17:28:40,474 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
-2018-04-09 17:28:41,133 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:28:41,134 INFO  [log] Début du test -- Cas : 1.0 302
-2018-04-09 17:28:41,134 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
-2018-04-09 17:28:41,698 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:28:41,698 INFO  [log] Début du test -- Cas : null 303
-2018-04-09 17:28:41,698 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
-2018-04-09 17:28:42,213 INFO  [log] Fin du test -- Cas : null
-2018-04-09 17:28:42,214 INFO  [log] Début du test -- Cas : 1.0 304
-2018-04-09 17:28:42,214 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
-2018-04-09 17:28:42,820 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:28:42,820 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ForgotMySecretQuestion], time taken: 5278ms, status: FINISHED
-2018-04-09 17:28:42,821 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetMySecretQuestion]
-2018-04-09 17:28:42,821 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
-2018-04-09 17:28:42,844 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
-2018-04-09 17:28:42,974 INFO  [log] Début du test -- Cas : 1.0 000
-2018-04-09 17:28:42,974 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
-2018-04-09 17:28:43,879 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:28:43,880 INFO  [log] Début du test -- Cas : 1.0 307
-2018-04-09 17:28:43,880 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
-2018-04-09 17:28:44,394 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:28:44,394 INFO  [log] Début du test -- Cas : 1.0 300
-2018-04-09 17:28:44,394 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
-2018-04-09 17:28:44,963 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:28:44,963 INFO  [log] Début du test -- Cas : 1.0 302
-2018-04-09 17:28:44,963 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
-2018-04-09 17:28:45,522 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:28:45,522 INFO  [log] Début du test -- Cas : 1.0 384
-2018-04-09 17:28:45,522 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
-2018-04-09 17:28:46,046 INFO  [log] Fin du test -- Cas : 1.0
-2018-04-09 17:28:46,046 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetMySecretQuestion], time taken: 3767ms, status: FINISHED
-2018-04-09 17:28:46,047 INFO  [SoapUIProTestCaseRunner] Project [souscription] finished with status [FAILED] in 177260ms
-2018-04-09 17:28:47,791 INFO  [SoapUIProTestCaseRunner] Created report at file:/Users/mac/Desktop/S2M/workspace/mavenProject/output/index.html
+2018-04-10 14:41:11,522 WARN  [SoapUI] Missing folder [/Users/mac/Desktop/S2M/workspace/mavenProject/./ext] for external libraries
+2018-04-10 14:41:16,360 INFO  [DefaultSoapUICore] initialized soapui-settings from [/Users/mac/soapui-settings.xml]
+2018-04-10 14:41:19,297 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [/Users/mac/Desktop/S2M/workspace/mavenProject/scripts]
+2018-04-10 14:41:34,515 INFO  [WsdlProject] Loaded project from [file:/Users/mac/Desktop/S2M/workspace/mavenProject/src/test/resources/souscription2.xml]
+2018-04-10 14:41:37,606 WARN  [SoapUIProGroovyScriptEngineFactory] Missing scripts folder [/Users/mac/Desktop/S2M/workspace/mavenProject/scripts]
+2018-04-10 14:41:40,243 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,247 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,250 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,253 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,255 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,257 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,260 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,263 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,265 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,268 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,269 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,272 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,274 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,275 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,277 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,280 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,282 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,283 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,286 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,288 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,289 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:40,291 ERROR [TestAssertionRegistry] Missing assertion for type [JsonPath Match]
+2018-04-10 14:41:41,777 INFO  [SoapUIProTestCaseRunner] Setting project property [message] to [Hello World!]
+2018-04-10 14:41:41,837 INFO  [SoapUIProTestCaseRunner] Running SoapUI tests in project [souscription]
+2018-04-10 14:41:41,937 INFO  [SoapUIProTestCaseRunner] Running Project [souscription], runType = SEQUENTIAL
+2018-04-10 14:41:42,365 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetAgentAllowedAccount]
+2018-04-10 14:41:42,486 INFO  [SoapUIProTestCaseRunner] running step [Groovy Script]
+2018-04-10 14:41:53,258 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 14:41:53,289 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
+2018-04-10 14:41:54,975 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:55,048 INFO  [log] Début du test -- Cas : 1.1 353
+2018-04-10 14:41:55,049 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
+2018-04-10 14:41:55,078 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:55,079 INFO  [log] Début du test -- Cas : 1.1 351
+2018-04-10 14:41:55,079 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
+2018-04-10 14:41:55,609 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:55,610 INFO  [log] Début du test -- Cas : 1.1 350
+2018-04-10 14:41:55,619 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
+2018-04-10 14:41:56,152 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:56,152 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 14:41:56,152 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
+2018-04-10 14:41:56,686 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:41:56,686 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:41:56,687 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
+2018-04-10 14:41:57,219 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:41:57,220 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 14:41:57,220 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
+2018-04-10 14:41:57,754 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:57,754 INFO  [log] Début du test -- Cas : 1.1 316
+2018-04-10 14:41:57,754 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
+2018-04-10 14:41:58,289 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:58,290 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:41:58,290 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
+2018-04-10 14:41:58,827 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:58,827 INFO  [log] Début du test -- Cas : 1.1 321
+2018-04-10 14:41:58,827 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
+2018-04-10 14:41:59,350 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:59,351 INFO  [log] Début du test -- Cas : 1.1 108
+2018-04-10 14:41:59,351 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
+2018-04-10 14:41:59,887 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:41:59,887 INFO  [SoapUIProTestCaseRunner] running step [GetAgentAllowedAccount]
+2018-04-10 14:42:00,509 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetAgentAllowedAccount], time taken: 18249ms, status: FINISHED
+2018-04-10 14:42:00,512 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CreatePIN]
+2018-04-10 14:42:00,512 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
+2018-04-10 14:42:02,447 INFO  [SoapUIProTestCaseRunner] running step [dateReader]
+2018-04-10 14:42:02,779 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:42:02,787 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
+2018-04-10 14:42:02,993 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:02,993 INFO  [log] Début du test -- Cas : 1.2 196
+2018-04-10 14:42:02,994 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
+2018-04-10 14:42:03,615 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:03,616 INFO  [log] Début du test -- Cas : 1.2 301
+2018-04-10 14:42:03,616 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
+2018-04-10 14:42:04,289 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:04,289 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:42:04,289 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
+2018-04-10 14:42:04,899 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:04,899 INFO  [log] Début du test -- Cas : 1.2 302
+2018-04-10 14:42:04,899 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
+2018-04-10 14:42:05,459 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:05,460 INFO  [log] Début du test -- Cas : 1.4 384
+2018-04-10 14:42:05,460 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
+2018-04-10 14:42:06,021 INFO  [log] Fin du test -- Cas : 1.4
+2018-04-10 14:42:06,260 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:42:06,260 INFO  [SoapUIProTestCaseRunner] running step [createPIN]
+2018-04-10 14:42:06,784 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:06,784 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CreatePIN], time taken: 5129ms, status: FINISHED
+2018-04-10 14:42:06,785 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CheckPhone]
+2018-04-10 14:42:06,785 INFO  [SoapUIProTestCaseRunner] running step [DataReader]
+2018-04-10 14:42:06,976 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 14:42:06,977 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
+2018-04-10 14:42:07,091 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:07,091 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 14:42:07,091 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
+2018-04-10 14:42:07,702 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:07,702 INFO  [log] Début du test -- Cas : 1.1 301
+2018-04-10 14:42:07,702 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
+2018-04-10 14:42:08,331 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:08,331 INFO  [log] Début du test -- Cas : 1.6 384
+2018-04-10 14:42:08,331 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
+2018-04-10 14:42:08,903 INFO  [log] Fin du test -- Cas : 1.6
+2018-04-10 14:42:08,903 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:42:08,904 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
+2018-04-10 14:42:09,417 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:09,418 INFO  [log] Début du test -- Cas : 1.0 308 
+2018-04-10 14:42:09,418 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
+2018-04-10 14:42:10,057 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:10,057 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:10,057 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
+2018-04-10 14:42:10,672 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:10,672 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 14:42:10,672 INFO  [SoapUIProTestCaseRunner] running step [checkPhone]
+2018-04-10 14:42:11,284 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:11,284 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CheckPhone], time taken: 5192ms, status: FINISHED
+2018-04-10 14:42:11,286 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetContract]
+2018-04-10 14:42:11,286 INFO  [SoapUIProTestCaseRunner] running step [getContract]
+2018-04-10 14:42:11,295 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-04-10 14:42:11,462 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:42:11,463 INFO  [SoapUIProTestCaseRunner] running step [getContract]
+2018-04-10 14:42:12,105 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:12,105 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:42:12,105 INFO  [SoapUIProTestCaseRunner] running step [getContract]
+2018-04-10 14:42:12,619 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:12,620 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:12,620 INFO  [SoapUIProTestCaseRunner] running step [getContract]
+2018-04-10 14:42:13,274 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:13,274 INFO  [log] Début du test -- Cas : 1.3 384
+2018-04-10 14:42:13,274 INFO  [SoapUIProTestCaseRunner] running step [getContract]
+2018-04-10 14:42:13,841 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:13,841 INFO  [log] Début du test -- Cas : 1.0 383
+2018-04-10 14:42:13,841 INFO  [SoapUIProTestCaseRunner] running step [getContract]
+2018-04-10 14:42:14,452 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:14,452 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:42:14,452 INFO  [SoapUIProTestCaseRunner] running step [getContract]
+2018-04-10 14:42:15,013 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:15,014 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:42:15,014 INFO  [SoapUIProTestCaseRunner] running step [getContract]
+2018-04-10 14:42:15,676 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:15,676 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetContract], time taken: 4997ms, status: FINISHED
+2018-04-10 14:42:15,678 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CkeckToken]
+2018-04-10 14:42:15,678 INFO  [SoapUIProTestCaseRunner] running step [DataReader]
+2018-04-10 14:42:15,841 INFO  [log] Début du test --Cas: 1.2 307
+2018-04-10 14:42:15,842 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
+2018-04-10 14:42:15,944 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:42:15,945 INFO  [log] Début du test --Cas: 1.1 300
+2018-04-10 14:42:15,945 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
+2018-04-10 14:42:16,471 INFO  [log] Fin du test --cas: 1.1
+2018-04-10 14:42:16,471 INFO  [log] Début du test --Cas: 1.2 305
+2018-04-10 14:42:16,471 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
+2018-04-10 14:42:17,211 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:42:17,212 INFO  [log] Début du test --Cas: 1.0 306
+2018-04-10 14:42:17,212 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
+2018-04-10 14:42:17,905 INFO  [log] Fin du test --cas: 1.0
+2018-04-10 14:42:17,906 INFO  [log] Début du test --Cas: 1.3 384
+2018-04-10 14:42:17,906 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
+2018-04-10 14:42:18,477 INFO  [log] Fin du test --cas: 1.3
+2018-04-10 14:42:18,477 INFO  [log] Début du test --Cas: 1.2 302
+2018-04-10 14:42:18,477 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
+2018-04-10 14:42:19,039 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:42:19,039 INFO  [log] Début du test --Cas: 1.2 000
+2018-04-10 14:42:19,039 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
+2018-04-10 14:42:19,808 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:42:19,808 INFO  [log] Début du test --Cas: 1.0 308
+2018-04-10 14:42:19,808 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
+2018-04-10 14:42:20,589 INFO  [log] Fin du test --cas: 1.0
+2018-04-10 14:42:20,595 INFO  [log] Début du test --Cas: 1.2 303
+2018-04-10 14:42:20,595 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
+2018-04-10 14:42:21,499 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:42:21,521 INFO  [log] Début du test --Cas: null 196
+2018-04-10 14:42:21,521 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
+2018-04-10 14:42:22,037 INFO  [log] Fin du test --cas: null
+2018-04-10 14:42:22,037 INFO  [log] Début du test --Cas: 1.2 301
+2018-04-10 14:42:22,037 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
+2018-04-10 14:42:22,762 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:42:22,762 INFO  [log] Début du test --Cas: 1.2 304
+2018-04-10 14:42:22,762 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
+2018-04-10 14:42:23,699 INFO  [log] Fin du test --cas: 1.2
+2018-04-10 14:42:23,699 INFO  [SoapUIProTestCaseRunner] running step [CheckToken]
+2018-04-10 14:42:24,604 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CkeckToken], time taken: 10663ms, status: FINISHED
+2018-04-10 14:42:24,605 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GenerateOTP]
+2018-04-10 14:42:24,606 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
+2018-04-10 14:42:24,615 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-04-10 14:42:24,756 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:24,756 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
+2018-04-10 14:42:25,270 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:25,270 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 14:42:25,270 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
+2018-04-10 14:42:25,782 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:25,782 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:42:25,782 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
+2018-04-10 14:42:26,391 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:26,391 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:42:26,391 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
+2018-04-10 14:42:26,907 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:26,907 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:42:26,907 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
+2018-04-10 14:42:27,421 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:27,422 INFO  [log] Début du test -- Cas : null 196
+2018-04-10 14:42:27,422 INFO  [SoapUIProTestCaseRunner] running step [generateOTP]
+2018-04-10 14:42:27,937 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:42:27,937 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GenerateOTP], time taken: 3369ms, status: FINISHED
+2018-04-10 14:42:27,939 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CheckOTP]
+2018-04-10 14:42:27,939 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-04-10 14:42:27,997 INFO  [SoapUIProTestCaseRunner] running step [dataREader]
+2018-04-10 14:42:28,163 INFO  [log] Début du test -- Cas : 1.2 000
+2018-04-10 14:42:28,389 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-04-10 14:42:29,121 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:29,121 INFO  [log] Début du test -- Cas :  196
+2018-04-10 14:42:29,121 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-04-10 14:42:29,632 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:42:29,633 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:42:29,633 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-04-10 14:42:30,146 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:30,146 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:30,146 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-04-10 14:42:30,760 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:30,760 INFO  [log] Début du test -- Cas : 1.2 301
+2018-04-10 14:42:30,760 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-04-10 14:42:31,463 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:31,463 INFO  [log] Début du test -- Cas : 1.2 306
+2018-04-10 14:42:31,463 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-04-10 14:42:32,071 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:32,071 INFO  [log] Début du test -- Cas : 1.2 310
+2018-04-10 14:42:32,071 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-04-10 14:42:32,718 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:32,719 INFO  [log] Début du test -- Cas : 1.3 384
+2018-04-10 14:42:32,719 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-04-10 14:42:33,284 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:33,284 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:42:33,284 INFO  [SoapUIProTestCaseRunner] running step [checkOTP]
+2018-04-10 14:42:33,851 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:33,851 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CheckOTP], time taken: 6809ms, status: FINISHED
+2018-04-10 14:42:33,852 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-EnrollAgent]
+2018-04-10 14:42:33,853 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
+2018-04-10 14:42:33,959 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-04-10 14:42:34,116 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 14:42:34,116 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
+2018-04-10 14:42:34,733 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:34,751 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 14:42:34,752 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
+2018-04-10 14:42:35,368 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:35,368 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:42:35,368 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
+2018-04-10 14:42:35,979 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:35,979 INFO  [log] Début du test -- Cas :  301
+2018-04-10 14:42:35,979 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
+2018-04-10 14:42:36,493 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:42:36,493 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 14:42:36,493 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
+2018-04-10 14:42:37,053 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:37,053 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 14:42:37,053 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
+2018-04-10 14:42:37,615 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:37,615 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:37,615 INFO  [SoapUIProTestCaseRunner] running step [enrollAgent]
+2018-04-10 14:42:38,426 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:38,426 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-EnrollAgent], time taken: 5300ms, status: FINISHED
+2018-04-10 14:42:38,428 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-CheckLogin]
+2018-04-10 14:42:38,428 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
+2018-04-10 14:42:38,487 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-04-10 14:42:38,645 INFO  [log] Début du test -- Cas : 1.2 000
+2018-04-10 14:42:38,645 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
+2018-04-10 14:42:39,251 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:39,251 INFO  [log] Début du test -- Cas :  196
+2018-04-10 14:42:39,251 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
+2018-04-10 14:42:39,763 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:42:39,763 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:42:39,763 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
+2018-04-10 14:42:40,367 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:40,367 INFO  [log] Début du test -- Cas : 1.1 300
+2018-04-10 14:42:40,367 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
+2018-04-10 14:42:40,889 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:40,890 INFO  [log] Début du test -- Cas : 1.2 301
+2018-04-10 14:42:40,890 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
+2018-04-10 14:42:41,507 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:41,508 INFO  [log] Début du test -- Cas : 1.0 311 
+2018-04-10 14:42:41,508 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
+2018-04-10 14:42:42,147 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:42,169 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:42:42,169 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
+2018-04-10 14:42:42,721 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:42,721 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 14:42:42,721 INFO  [SoapUIProTestCaseRunner] running step [checkLogin]
+2018-04-10 14:42:43,282 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:43,282 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-CheckLogin], time taken: 5414ms, status: FINISHED
+2018-04-10 14:42:43,284 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-EnrollUnBankedCustomer]
+2018-04-10 14:42:43,284 INFO  [SoapUIProTestCaseRunner] running step [enrollUnBankedCustomer]
+2018-04-10 14:42:43,296 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-04-10 14:42:43,432 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:42:43,432 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
+2018-04-10 14:42:43,530 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:43,531 INFO  [log] Début du test -- Cas : 1.0 196
+2018-04-10 14:42:43,531 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
+2018-04-10 14:42:44,130 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:44,130 INFO  [log] Début du test -- Cas : 1.2 307
+2018-04-10 14:42:44,130 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
+2018-04-10 14:42:44,730 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:42:44,731 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:42:44,731 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
+2018-04-10 14:42:45,484 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:45,485 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:42:45,485 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
+2018-04-10 14:42:46,084 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:46,084 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 14:42:46,084 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
+2018-04-10 14:42:46,651 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:46,652 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:46,652 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
+2018-04-10 14:42:47,262 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:47,263 INFO  [log] Début du test -- Cas : null null
+2018-04-10 14:42:47,263 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
+2018-04-10 14:42:47,785 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:42:47,785 INFO  [SoapUIProTestCaseRunner] running step [EnrollUnBankedCustomer]
+2018-04-10 14:42:48,299 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-EnrollUnBankedCustomer], time taken: 5291ms, status: FINISHED
+2018-04-10 14:42:48,300 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-EnrollBankedCustomer]
+2018-04-10 14:42:48,300 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
+2018-04-10 14:42:48,361 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-04-10 14:42:48,505 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:42:48,505 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
+2018-04-10 14:42:49,441 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:49,441 INFO  [log] Début du test -- Cas : 1.0 196
+2018-04-10 14:42:49,441 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
+2018-04-10 14:42:50,049 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:50,049 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:42:50,049 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
+2018-04-10 14:42:50,675 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:50,675 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:42:50,675 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
+2018-04-10 14:42:51,279 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:51,280 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:51,280 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
+2018-04-10 14:42:51,892 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:51,892 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:42:51,893 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
+2018-04-10 14:42:52,896 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:42:52,897 INFO  [log] Début du test -- Cas : 1.1 384
+2018-04-10 14:42:52,897 INFO  [SoapUIProTestCaseRunner] running step [enrollBankedCustomer]
+2018-04-10 14:42:53,451 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:53,451 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-EnrollBankedCustomer], time taken: 6541ms, status: FINISHED
+2018-04-10 14:42:53,453 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-SubscribeSubAgentOperator]
+2018-04-10 14:42:53,453 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
+2018-04-10 14:42:53,627 INFO  [SoapUIProTestCaseRunner] running step [DataReader]
+2018-04-10 14:42:53,759 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 14:42:53,759 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
+2018-04-10 14:42:54,472 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:54,473 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 14:42:54,473 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
+2018-04-10 14:42:55,073 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:55,073 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:42:55,073 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
+2018-04-10 14:42:55,660 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:55,660 INFO  [log] Début du test -- Cas : 1.1 321
+2018-04-10 14:42:55,660 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
+2018-04-10 14:42:56,334 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:56,334 INFO  [log] Début du test -- Cas : 1.1 301
+2018-04-10 14:42:56,334 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
+2018-04-10 14:42:56,849 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:56,849 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:42:56,849 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
+2018-04-10 14:42:57,510 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:42:57,510 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 14:42:57,510 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
+2018-04-10 14:42:58,135 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:58,135 INFO  [log] Début du test -- Cas :  340
+2018-04-10 14:42:58,135 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
+2018-04-10 14:42:58,649 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:42:58,649 INFO  [log] Début du test -- Cas :  341
+2018-04-10 14:42:58,649 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
+2018-04-10 14:42:59,164 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:42:59,164 INFO  [log] Début du test -- Cas : 1.1 308
+2018-04-10 14:42:59,164 INFO  [SoapUIProTestCaseRunner] running step [SubscribeSubAgentOperator]
+2018-04-10 14:42:59,836 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:42:59,836 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-SubscribeSubAgentOperator], time taken: 7350ms, status: FINISHED
+2018-04-10 14:42:59,837 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT16-EnrollSubAgentOperator]
+2018-04-10 14:42:59,837 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
+2018-04-10 14:42:59,930 INFO  [SoapUIProTestCaseRunner] running step [EnrollSubAgentOperator]
+2018-04-10 14:43:00,067 INFO  [log] Début du test -- Cas : 1.1 000
+2018-04-10 14:43:00,067 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
+2018-04-10 14:43:00,685 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:00,743 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 14:43:00,743 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
+2018-04-10 14:43:01,362 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:01,362 INFO  [log] Début du test -- Cas : 1.1 307
+2018-04-10 14:43:01,362 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
+2018-04-10 14:43:01,969 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:01,970 INFO  [log] Début du test -- Cas :  301
+2018-04-10 14:43:01,970 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
+2018-04-10 14:43:02,481 INFO  [log] Fin du test -- Cas : 
+2018-04-10 14:43:02,481 INFO  [log] Début du test -- Cas : 1.1 302
+2018-04-10 14:43:02,481 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
+2018-04-10 14:43:03,032 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:03,045 INFO  [log] Début du test -- Cas : 1.2 384
+2018-04-10 14:43:03,046 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
+2018-04-10 14:43:03,619 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:43:03,619 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:43:03,619 INFO  [SoapUIProTestCaseRunner] running step [enrollSubAgentOperator]
+2018-04-10 14:43:04,377 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:43:04,377 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT16-EnrollSubAgentOperator], time taken: 5222ms, status: FINISHED
+2018-04-10 14:43:04,378 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetSecretQuestions]
+2018-04-10 14:43:04,378 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
+2018-04-10 14:43:04,386 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-04-10 14:43:04,511 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:43:04,511 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
+2018-04-10 14:43:05,069 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:05,069 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:05,069 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
+2018-04-10 14:43:06,274 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:06,274 INFO  [log] Début du test -- Cas : 1.0 309
+2018-04-10 14:43:06,274 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
+2018-04-10 14:43:06,419 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:06,419 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:43:06,419 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
+2018-04-10 14:43:06,929 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:06,930 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 14:43:06,930 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
+2018-04-10 14:43:07,491 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:07,491 INFO  [log] Début du test -- Cas : 1.1 300
+2018-04-10 14:43:07,491 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
+2018-04-10 14:43:08,012 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:08,013 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:43:08,013 INFO  [SoapUIProTestCaseRunner] running step [getSecretQuestions]
+2018-04-10 14:43:08,650 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:08,650 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetSecretQuestions], time taken: 4805ms, status: FINISHED
+2018-04-10 14:43:08,652 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GenerateOTPUnbanked]
+2018-04-10 14:43:08,652 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
+2018-04-10 14:43:08,747 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-04-10 14:43:08,872 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:08,872 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
+2018-04-10 14:43:09,452 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:09,453 INFO  [log] Début du test -- Cas : 1.2 307
+2018-04-10 14:43:09,453 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
+2018-04-10 14:43:10,060 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:43:10,060 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:43:10,060 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
+2018-04-10 14:43:10,646 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:10,646 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:43:10,646 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
+2018-04-10 14:43:11,252 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:43:11,252 INFO  [log] Début du test -- Cas : 1.4 384
+2018-04-10 14:43:11,252 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
+2018-04-10 14:43:11,814 INFO  [log] Fin du test -- Cas : 1.4
+2018-04-10 14:43:11,815 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:43:11,815 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
+2018-04-10 14:43:12,423 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:12,423 INFO  [log] Début du test -- Cas : 1.1 196
+2018-04-10 14:43:12,423 INFO  [SoapUIProTestCaseRunner] running step [generateOtpUnbanked]
+2018-04-10 14:43:13,031 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:13,031 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GenerateOTPUnbanked], time taken: 4985ms, status: FINISHED
+2018-04-10 14:43:13,032 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetNationality]
+2018-04-10 14:43:13,032 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
+2018-04-10 14:43:13,041 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-04-10 14:43:13,228 INFO  [log] Début du test -- Cas : 1.1 384
+2018-04-10 14:43:13,228 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
+2018-04-10 14:43:13,810 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:13,810 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:13,810 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
+2018-04-10 14:43:14,498 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:14,498 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:43:14,498 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
+2018-04-10 14:43:15,010 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:15,010 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:43:15,010 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
+2018-04-10 14:43:15,565 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:15,565 INFO  [log] Début du test -- Cas : 1.3 300
+2018-04-10 14:43:15,565 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
+2018-04-10 14:43:16,237 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:43:16,238 INFO  [log] Début du test -- Cas : 1.3 385
+2018-04-10 14:43:16,238 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
+2018-04-10 14:43:16,893 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:43:16,893 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:43:16,893 INFO  [SoapUIProTestCaseRunner] running step [getNationality]
+2018-04-10 14:43:17,568 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:17,569 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetNationality], time taken: 5199ms, status: FINISHED
+2018-04-10 14:43:17,570 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetCity]
+2018-04-10 14:43:17,570 INFO  [SoapUIProTestCaseRunner] running step [getCity]
+2018-04-10 14:43:17,579 INFO  [SoapUIProTestCaseRunner] running step [DataReader]
+2018-04-10 14:43:17,701 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:17,701 INFO  [SoapUIProTestCaseRunner] running step [getCity]
+2018-04-10 14:43:18,344 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:18,344 INFO  [log] Début du test -- Cas : 1.0 196
+2018-04-10 14:43:18,344 INFO  [SoapUIProTestCaseRunner] running step [getCity]
+2018-04-10 14:43:18,857 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:18,857 INFO  [log] Début du test -- Cas : 1.0 301
+2018-04-10 14:43:18,857 INFO  [SoapUIProTestCaseRunner] running step [getCity]
+2018-04-10 14:43:19,369 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:19,369 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:43:19,369 INFO  [SoapUIProTestCaseRunner] running step [getCity]
+2018-04-10 14:43:19,881 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:19,881 INFO  [log] Début du test -- Cas : 1.5 384
+2018-04-10 14:43:19,881 INFO  [SoapUIProTestCaseRunner] running step [getCity]
+2018-04-10 14:43:20,440 INFO  [log] Fin du test -- Cas : 1.5
+2018-04-10 14:43:20,440 INFO  [log] Début du test -- Cas : 1.1 300
+2018-04-10 14:43:20,440 INFO  [SoapUIProTestCaseRunner] running step [getCity]
+2018-04-10 14:43:20,958 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:20,958 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:43:20,959 INFO  [SoapUIProTestCaseRunner] running step [getCity]
+2018-04-10 14:43:21,506 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:21,506 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetCity], time taken: 4194ms, status: FINISHED
+2018-04-10 14:43:21,507 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-login]
+2018-04-10 14:43:21,507 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-04-10 14:43:21,552 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-04-10 14:43:21,715 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:43:21,715 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-04-10 14:43:22,230 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:22,230 INFO  [log] Début du test -- Cas : 1.1 384
+2018-04-10 14:43:22,256 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-04-10 14:43:22,773 INFO  [log] Fin du test -- Cas : 1.1
+2018-04-10 14:43:22,823 INFO  [log] Début du test -- Cas : 1.3 370
+2018-04-10 14:43:22,823 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-04-10 14:43:23,385 INFO  [log] Fin du test -- Cas : 1.3
+2018-04-10 14:43:23,408 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:23,408 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-04-10 14:43:24,282 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:24,282 INFO  [log] Début du test -- Cas : 1.2 300
+2018-04-10 14:43:24,282 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-04-10 14:43:24,834 INFO  [log] Fin du test -- Cas : 1.2
+2018-04-10 14:43:24,834 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:43:24,834 INFO  [SoapUIProTestCaseRunner] running step [authenticate]
+2018-04-10 14:43:25,378 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:25,378 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-login], time taken: 4394ms, status: FINISHED
+2018-04-10 14:43:25,386 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-Logout]
+2018-04-10 14:43:25,387 INFO  [SoapUIProTestCaseRunner] running step [logOut]
+2018-04-10 14:43:25,431 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-04-10 14:43:25,560 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:25,560 INFO  [SoapUIProTestCaseRunner] running step [logOut]
+2018-04-10 14:43:26,092 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:26,092 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:43:26,092 INFO  [SoapUIProTestCaseRunner] running step [logOut]
+2018-04-10 14:43:26,618 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:26,619 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-Logout], time taken: 1275ms, status: FINISHED
+2018-04-10 14:43:26,620 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ForgotPassword]
+2018-04-10 14:43:26,620 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
+2018-04-10 14:43:26,902 INFO  [SoapUIProTestCaseRunner] running step [dataREader]
+2018-04-10 14:43:27,029 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:27,029 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
+2018-04-10 14:43:27,864 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:27,865 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:43:27,865 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
+2018-04-10 14:43:28,447 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:28,448 INFO  [log] Début du test -- Cas : 1.0 306
+2018-04-10 14:43:28,448 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
+2018-04-10 14:43:29,041 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:29,041 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:43:29,041 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
+2018-04-10 14:43:29,609 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:29,609 INFO  [log] Début du test -- Cas : 1.0 381
+2018-04-10 14:43:29,609 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
+2018-04-10 14:43:30,443 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:30,444 INFO  [log] Début du test -- Cas : 1.0 312
+2018-04-10 14:43:30,444 INFO  [SoapUIProTestCaseRunner] running step [forgotPassword]
+2018-04-10 14:43:31,428 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:31,429 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ForgotPassword], time taken: 6164ms, status: FINISHED
+2018-04-10 14:43:31,429 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-ForgotMySecretQuestion]
+2018-04-10 14:43:31,429 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
+2018-04-10 14:43:31,530 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-04-10 14:43:31,648 INFO  [log] Début du test -- Cas : null 000
+2018-04-10 14:43:31,648 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
+2018-04-10 14:43:32,158 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:43:32,158 INFO  [log] Début du test -- Cas : null 301
+2018-04-10 14:43:32,158 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
+2018-04-10 14:43:32,671 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:43:32,986 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:43:32,986 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
+2018-04-10 14:43:33,598 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:34,325 INFO  [log] Début du test -- Cas : null 196
+2018-04-10 14:43:34,325 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
+2018-04-10 14:43:34,333 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:43:34,333 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:43:34,333 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
+2018-04-10 14:43:34,844 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:35,096 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:43:35,096 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
+2018-04-10 14:43:35,738 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:35,738 INFO  [log] Début du test -- Cas : null 303
+2018-04-10 14:43:35,738 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
+2018-04-10 14:43:36,250 INFO  [log] Fin du test -- Cas : null
+2018-04-10 14:43:36,250 INFO  [log] Début du test -- Cas : 1.0 304
+2018-04-10 14:43:36,250 INFO  [SoapUIProTestCaseRunner] running step [forgotSecretQuestion]
+2018-04-10 14:43:36,855 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:36,855 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-ForgotMySecretQuestion], time taken: 5699ms, status: FINISHED
+2018-04-10 14:43:36,856 INFO  [SoapUIProTestCaseRunner] Running SoapUI testcase [CT-GetMySecretQuestion]
+2018-04-10 14:43:36,856 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
+2018-04-10 14:43:36,871 INFO  [SoapUIProTestCaseRunner] running step [dataReader]
+2018-04-10 14:43:36,983 INFO  [log] Début du test -- Cas : 1.0 000
+2018-04-10 14:43:36,983 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
+2018-04-10 14:43:37,637 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:37,664 INFO  [log] Début du test -- Cas : 1.0 307
+2018-04-10 14:43:37,664 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
+2018-04-10 14:43:38,177 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:38,177 INFO  [log] Début du test -- Cas : 1.0 300
+2018-04-10 14:43:38,177 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
+2018-04-10 14:43:38,760 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:38,760 INFO  [log] Début du test -- Cas : 1.0 302
+2018-04-10 14:43:38,761 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
+2018-04-10 14:43:39,305 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:39,305 INFO  [log] Début du test -- Cas : 1.0 384
+2018-04-10 14:43:39,305 INFO  [SoapUIProTestCaseRunner] running step [getMySecretQuestion]
+2018-04-10 14:43:39,823 INFO  [log] Fin du test -- Cas : 1.0
+2018-04-10 14:43:39,823 INFO  [SoapUIProTestCaseRunner] Finished running SoapUI testcase [CT-GetMySecretQuestion], time taken: 3254ms, status: FINISHED
+2018-04-10 14:43:39,823 INFO  [SoapUIProTestCaseRunner] Project [souscription] finished with status [FINISHED] in 117884ms
+2018-04-10 14:43:50,032 INFO  [SoapUIProTestCaseRunner] Created report at file:/Users/mac/Desktop/S2M/workspace/mavenProject/output/index.html
